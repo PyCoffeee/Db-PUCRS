@@ -1,3 +1,3 @@
 # Db-PUCRS
 ## Disciplinas
-Projetos, exercícios e estudos acadêmicos em Ciência de Dados e Computação na PUCRS.
+Projetos, exercícios e estudos acadêmicos no Curso Superior de Tecnologia (CST) em Banco de Dados: ênfase em Data Analytics na PUCRS.
