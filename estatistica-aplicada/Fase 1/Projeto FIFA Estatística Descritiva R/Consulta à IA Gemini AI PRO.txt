@@ -1,0 +1,7 @@
+Consulta à IA Gemini AI PRO para verificar:
+
+1. A integridade do arquivo ( .ipynb ) em relação à 
+lógica e sintaxe
+
+
+Disponível via link público compartilhável: https://share.gemini.google/nhi8NJsKAh5y
