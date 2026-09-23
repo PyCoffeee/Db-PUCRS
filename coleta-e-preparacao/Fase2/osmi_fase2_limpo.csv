@@ -1,0 +1,2740 @@
+Ano,Genero,Genero_padrao,Idade,Idade_limpa,Faixa_etaria,Qual pais voce reside?,Voce ja foi diagnosticado com uma doenca mental?,Diagnostico,Voce ja procurou tratamento profissional para uma doenca mental?,Tratamento,A sua empresa oferece beneficios referentes a saude mental como parte dos beneficios de saude?
+2016,Masculino,Masculino,39.0,39.0,35–44,United Kingdom,Sim,1.0,Nao,0,Nao elegivel
+2016,masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino ,Masculino,38.0,38.0,35–44,United Kingdom,Nao,0.0,Sim,1,Nao
+2016,masculino,Masculino,43.0,43.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,42.0,42.0,35–44,United Kingdom,Nao,0.0,Sim,1,Sim
+2016,M,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,44.0,44.0,35–44,Canada,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,52.0,52.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Me identifico como mulher,Feminino,32.0,32.0,25–34,Canada,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,feminino ,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,
+2016,M,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,25.0,25.0,25–34,Germany,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,Canada,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Nao,0.0,Nao,0,
+2016,masculino,Masculino,42.0,42.0,35–44,Germany,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,Netherlands,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,35.0,35.0,35–44,Germany,Nao,0.0,Sim,1,Eu nao sei
+2016,feminino,Feminino,34.0,34.0,25–34,United Kingdom,Nao,0.0,Sim,1,Eu nao sei
+2016,Bi-gênero,Outro/nao binario,32.0,32.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao elegivel
+2016,não-binário,Outro/nao binario,32.0,32.0,25–34,Germany,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,36.0,36.0,35–44,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,Germany,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,29.0,29.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,29.0,29.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,44.0,44.0,35–44,Canada,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,
+2016,masculino,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Registrada no nascimento como feminino,Outro/nao binario,46.0,46.0,45–54,Netherlands,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,41.0,41.0,35–44,United States,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,45.0,45.0,45–54,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,43.0,43.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2016,F,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,37.0,37.0,35–44,Australia,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,31.0,31.0,25–34,Netherlands,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Mulher,Feminino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,Canada,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,40.0,40.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,homem,Masculino,41.0,41.0,35–44,France,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,Nao,0.0,Nao,0,
+2016,masculino,Masculino,35.0,35.0,35–44,Netherlands,Nao,0.0,Nao,0,
+2016,feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2016,M,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,Netherlands,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,46.0,46.0,45–54,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,40.0,40.0,35–44,Netherlands,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,41.0,41.0,35–44,Netherlands,Nao,0.0,Nao,0,Nao
+2016,M,Masculino,19.0,19.0,18–24,France,Nao,0.0,Nao,0,
+2016,F,Feminino,38.0,38.0,35–44,Netherlands,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino ,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,21.0,21.0,18–24,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,36.0,36.0,35–44,Brazil,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,39.0,39.0,35–44,Canada,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,36.0,36.0,35–44,France,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,45.0,45.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,41.0,41.0,35–44,Canada,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,33.0,33.0,25–34,Brazil,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,26.0,26.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,17.0,,,Brazil,Nao,0.0,Nao,0,Nao
+2016,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,36.0,36.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,M,Masculino,46.0,46.0,45–54,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,39.0,39.0,35–44,Netherlands,Nao,0.0,Nao,0,
+2016,Feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,f,Feminino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,27.0,27.0,25–34,Netherlands,Nao,0.0,Nao,0,Nao
+2016,m,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,
+2016,f,Feminino,39.0,39.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,M,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,51.0,51.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,f,Feminino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,F,Feminino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,M,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,30.0,30.0,25–34,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,24.0,24.0,18–24,United States,Nao,0.0,Nao,0,Sim
+2016,m,Masculino,30.0,30.0,25–34,Netherlands,Sim,1.0,Sim,1,
+2016,cisgênero feminino,Feminino,28.0,28.0,25–34,Germany,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,48.0,48.0,45–54,United States,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,55.0,55.0,55–80,United States,Nao,0.0,Sim,1,
+2016,F,Feminino,36.0,36.0,35–44,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,38.0,38.0,35–44,Netherlands,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,34.0,34.0,25–34,France,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,44.0,44.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,M,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Transgênero feminina,Outro/nao binario,42.0,42.0,35–44,Canada,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,f,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,21.0,21.0,18–24,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,F,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,40.0,40.0,35–44,Germany,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,44.0,44.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Fluidez de gênero (nascida feminino),Outro/nao binario,35.0,35.0,35–44,Canada,Sim,1.0,Nao,0,Eu nao sei
+2016,m,Masculino,45.0,45.0,45–54,United States,Nao,0.0,Nao,0,Nao
+2016,m,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Nao,0,
+2016,F,Feminino,50.0,50.0,45–54,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,m,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,42.0,42.0,35–44,Canada,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,25.0,25.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,41.0,41.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,F,Feminino,55.0,55.0,55–80,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,21.0,21.0,18–24,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,37.0,37.0,35–44,Netherlands,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,34.0,34.0,25–34,Netherlands,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,40.0,40.0,35–44,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,25.0,25.0,25–34,Netherlands,Nao,0.0,Nao,0,
+2016,masculino,Masculino,36.0,36.0,35–44,Germany,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,25.0,25.0,25–34,Germany,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,37.0,37.0,35–44,United States,Nao,0.0,Sim,1,Nao
+2016,Masculino,Masculino,45.0,45.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,23.0,23.0,18–24,United States,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,31.0,31.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,37.0,37.0,35–44,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,37.0,37.0,35–44,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Outro,Outro/nao binario,26.0,26.0,25–34,Netherlands,Sim,1.0,Sim,1,Nao elegivel
+2016,M,Masculino,23.0,23.0,18–24,Netherlands,Nao,0.0,Sim,1,Nao
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,34.0,34.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,Germany,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,48.0,48.0,45–54,United Kingdom,Nao,0.0,Sim,1,
+2016,Feminino,Feminino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,33.0,33.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,24.0,24.0,18–24,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,37.0,37.0,35–44,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,Germany,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,30.0,30.0,25–34,United Kingdom,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,25.0,25.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,M,Masculino,37.0,37.0,35–44,Canada,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,31.0,31.0,25–34,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,M,Masculino,33.0,33.0,25–34,France,Sim,1.0,Nao,0,Eu nao sei
+2016,M,Masculino,30.0,30.0,25–34,India,Nao,0.0,Nao,0,Nao
+2016,M,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,26.0,26.0,25–34,Germany,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,38.0,38.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,34.0,34.0,25–34,France,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,
+2016,m,Masculino,31.0,31.0,25–34,Germany,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,34.0,34.0,25–34,Germany,Nao,0.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Feminino ,Feminino,35.0,35.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino ,Masculino,27.0,27.0,25–34,Germany,Nao,0.0,Nao,0,Eu nao sei
+2016,m,Masculino,33.0,33.0,25–34,Germany,Nao,0.0,Nao,0,
+2016,Feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,45.0,45.0,45–54,United Kingdom,Sim,1.0,Sim,1,Nao elegivel
+2016,mulher,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,M,Masculino,36.0,36.0,35–44,United States,Nao,0.0,Nao,0,Nao
+2016,M,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,45.0,45.0,45–54,Canada,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,f,Feminino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,M,Masculino,37.0,37.0,35–44,Canada,Nao,0.0,Sim,1,Sim
+2016,Feminino,Feminino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,28.0,28.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,feminino,Feminino,27.0,27.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,26.0,26.0,25–34,Germany,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,44.0,44.0,35–44,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,44.0,44.0,35–44,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,49.0,49.0,45–54,United States,Nao,0.0,Sim,1,
+2016,feminino/mulher,Feminino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,cisgênero masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,20.0,20.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino ,Masculino,41.0,41.0,35–44,Germany,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,38.0,38.0,35–44,Australia,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,f,Feminino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino.,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,m,Masculino,54.0,54.0,45–54,United States,Sim,1.0,Sim,1,Nao
+2016,m,Masculino,33.0,33.0,25–34,Germany,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,29.0,29.0,25–34,Netherlands,Nao,0.0,Nao,0,Nao
+2016,Andrôgeno,Outro/nao binario,26.0,26.0,25–34,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,26.0,26.0,25–34,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,Nao,0.0,Sim,1,
+2016,Feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2016,F,Feminino,47.0,47.0,45–54,Australia,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,22.0,22.0,18–24,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,"90% masculino, 10% feminino",Outro/nao binario,28.0,28.0,25–34,United Kingdom,Nao,0.0,Sim,1,Nao elegivel
+2016,m,Masculino,31.0,31.0,25–34,United Kingdom,Sim,1.0,Sim,1,Sim
+2016,,Nao informado,24.0,24.0,18–24,United Kingdom,Sim,1.0,Sim,1,Nao elegivel
+2016,m,Masculino,56.0,56.0,55–80,Australia,Sim,1.0,Nao,0,Nao
+2016,F,Feminino,57.0,57.0,55–80,Australia,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,21.0,21.0,18–24,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,63.0,63.0,55–80,Canada,Sim,1.0,Sim,1,
+2016,masculino,Masculino,46.0,46.0,45–54,Australia,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,32.0,32.0,25–34,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,m,Masculino,35.0,35.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,F,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,50.0,50.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,32.0,32.0,25–34,Canada,Nao,0.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,23.0,23.0,18–24,Canada,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,43.0,43.0,35–44,Canada,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,26.0,26.0,25–34,Canada,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,26.0,26.0,25–34,Canada,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,55.0,55.0,55–80,Canada,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,Canada,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,25.0,25.0,25–34,India,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,37.0,37.0,35–44,Netherlands,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,29.0,29.0,25–34,Canada,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,United Kingdom,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao elegivel
+2016,masculino,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,F,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Nao,0,Sim
+2016,M,Masculino,35.0,35.0,35–44,Netherlands,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,25.0,25.0,25–34,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,31.0,31.0,25–34,Germany,Nao,0.0,Sim,1,Eu nao sei
+2016,feminino,Feminino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,F,Feminino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,22.0,22.0,18–24,Germany,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,51.0,51.0,45–54,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Nao,0.0,Sim,1,
+2016,masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,M,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,M,Masculino,43.0,43.0,35–44,Netherlands,Nao,0.0,Nao,0,
+2016,f,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,45.0,45.0,45–54,United States,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,42.0,42.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,f,Feminino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,feminino,Feminino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,cisgênero masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,42.0,42.0,35–44,Canada,Nao,0.0,Nao,0,Eu nao sei
+2016,Outro,Outro/nao binario,99.0,,,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,28.0,28.0,25–34,Canada,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Feminino ,Feminino,21.0,21.0,18–24,Australia,Nao,0.0,Sim,1,Sim
+2016,masculino,Masculino,38.0,38.0,35–44,Netherlands,Sim,1.0,Sim,1,Nao
+2016,M,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,28.0,28.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,24.0,24.0,18–24,Australia,Sim,1.0,Sim,1,Nao elegivel
+2016,masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,41.0,41.0,35–44,United States,Nao,0.0,Nao,0,
+2016,F,Feminino,38.0,38.0,35–44,United States,Nao,0.0,Sim,1,
+2016,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,47.0,47.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,33.0,33.0,25–34,Netherlands,Nao,0.0,Nao,0,
+2016,f,Feminino,28.0,28.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,homem,Masculino,22.0,22.0,18–24,Netherlands,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,37.0,37.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,
+2016,m,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,27.0,27.0,25–34,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,32.0,32.0,25–34,Netherlands,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,Netherlands,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,26.0,26.0,25–34,Germany,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,27.0,27.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,27.0,27.0,25–34,Netherlands,Sim,1.0,Sim,1,
+2016,masculino,Masculino,26.0,26.0,25–34,Germany,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,23.0,23.0,18–24,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2016,masculino,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,m,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,f,Feminino,27.0,27.0,25–34,Canada,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,
+2016,cisgênero feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,Australia,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,29.0,29.0,25–34,Netherlands,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,Nao,0.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,39.0,39.0,35–44,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,27.0,27.0,25–34,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,26.0,26.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,44.0,44.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,57.0,57.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,34.0,34.0,25–34,Canada,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,55.0,55.0,55–80,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,22.0,22.0,18–24,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,31.0,31.0,25–34,United Kingdom,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,40.0,40.0,35–44,Germany,Nao,0.0,Nao,0,
+2016,m,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,36.0,36.0,35–44,United States,Nao,0.0,Sim,1,Nao
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,F,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,f,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Nao,0.0,Sim,1,Nao elegivel
+2016,m,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,Feminino,Feminino,44.0,44.0,35–44,Canada,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,
+2016,Homem,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,27.0,27.0,25–34,Netherlands,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,23.0,23.0,18–24,United States,Nao,0.0,Nao,0,Nao
+2016,M,Masculino,37.0,37.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,m,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Sexo é masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,M,Masculino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,43.0,43.0,35–44,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,f,Feminino,61.0,61.0,55–80,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,50.0,50.0,45–54,United States,Sim,1.0,Nao,0,
+2016,Masculino,Masculino,38.0,38.0,35–44,India,Sim,1.0,Sim,1,
+2016,m,Masculino,51.0,51.0,45–54,Germany,Sim,1.0,Sim,1,Nao elegivel
+2016,masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,43.0,43.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2016,m,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,50.0,50.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,36.0,36.0,35–44,Canada,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,Australia,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,50.0,50.0,45–54,Australia,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,não é da sua conta,Outro/nao binario,23.0,23.0,18–24,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,31.0,31.0,25–34,Canada,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,55.0,55.0,55–80,United States,Sim,1.0,Sim,1,Nao
+2016,M,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,Feminino,Feminino,28.0,28.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,m,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,
+2016,masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,feminino,Feminino,36.0,36.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,45.0,45.0,45–54,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,23.0,23.0,18–24,France,Nao,0.0,Nao,0,Nao
+2016,Feminino,Feminino,54.0,54.0,45–54,Canada,Sim,1.0,Sim,1,
+2016,F,Feminino,61.0,61.0,55–80,United States,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,31.0,31.0,25–34,Australia,Sim,1.0,Sim,1,Nao elegivel
+2016,M,Masculino,37.0,37.0,35–44,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,29.0,29.0,25–34,Germany,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,28.0,28.0,25–34,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,30.0,30.0,25–34,United Kingdom,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,55.0,55.0,55–80,United Kingdom,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,20.0,20.0,18–24,Canada,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2016,masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,39.0,39.0,35–44,Australia,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,29.0,29.0,25–34,Brazil,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,32.0,32.0,25–34,Canada,Nao,0.0,Nao,0,Sim
+2016,m,Masculino,34.0,34.0,25–34,Germany,Nao,0.0,Nao,0,
+2016,F,Feminino,35.0,35.0,35–44,Canada,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,36.0,36.0,35–44,United Kingdom,Nao,0.0,Sim,1,Nao
+2016,Feminino,Feminino,31.0,31.0,25–34,Netherlands,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2016,m,Masculino,46.0,46.0,45–54,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,22.0,22.0,18–24,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,feminino,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,19.0,19.0,18–24,United States,Nao,0.0,Nao,0,Sim
+2016,queer,Outro/nao binario,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,M,Masculino,22.0,22.0,18–24,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,323.0,,,United States,Nao,0.0,Nao,0,Sim
+2016,f,Feminino,48.0,48.0,45–54,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,45.0,45.0,45–54,Germany,Nao,0.0,Sim,1,Nao
+2016,Masculino,Masculino,28.0,28.0,25–34,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,44.0,44.0,35–44,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,f,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,f,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,41.0,41.0,35–44,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,24.0,24.0,18–24,Australia,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,36.0,36.0,35–44,Australia,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,41.0,41.0,35–44,Australia,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,21.0,21.0,18–24,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,32.0,32.0,25–34,India,Nao,0.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,62.0,62.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,48.0,48.0,45–54,United States,Sim,1.0,Sim,1,
+2016,M,Masculino,33.0,33.0,25–34,Germany,Nao,0.0,Sim,1,Sim
+2016,m,Masculino,24.0,24.0,18–24,Australia,Nao,0.0,Nao,0,Nao elegivel
+2016,Masculino,Masculino,28.0,28.0,25–34,Netherlands,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,42.0,42.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,m,Masculino,28.0,28.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,40.0,40.0,35–44,Canada,Sim,1.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2016,m,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,44.0,44.0,35–44,Netherlands,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,54.0,54.0,45–54,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,cisgênero masculino,Masculino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,Australia,Sim,1.0,Sim,1,Nao elegivel
+2016,M,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,
+2016,Humano,Outro/nao binario,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,43.0,43.0,35–44,United States,Nao,0.0,Nao,0,
+2016,Gênero Fluido,Outro/nao binario,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,29.0,29.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,29.0,29.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,Masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2016,Feminino,Feminino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,25.0,25.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,M,Masculino,22.0,22.0,18–24,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,53.0,53.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,M,Masculino,32.0,32.0,25–34,Canada,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,m,Masculino,55.0,55.0,55–80,United States,Nao,0.0,Nao,0,
+2016,masculino,Masculino,27.0,27.0,25–34,France,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,,Nao informado,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,39.0,39.0,35–44,United Kingdom,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,46.0,46.0,45–54,United Kingdom,Sim,1.0,Sim,1,
+2016,F,Feminino,52.0,52.0,45–54,United States,Nao,0.0,Nao,0,
+2016,Outro,Outro/nao binario,33.0,33.0,25–34,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,58.0,58.0,55–80,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,30.0,30.0,25–34,Canada,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Nao,0,Eu nao sei
+2016,f,Feminino,26.0,26.0,25–34,Canada,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,21.0,21.0,18–24,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,3.0,,,Canada,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,25.0,25.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino ,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,United Kingdom,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,26.0,26.0,25–34,Canada,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,36.0,36.0,35–44,United States,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,26.0,26.0,25–34,United Kingdom,Nao,0.0,Sim,1,Nao
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Nao elegivel
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,33.0,33.0,25–34,United States,Nao,0.0,Sim,1,
+2016,f,Feminino,27.0,27.0,25–34,Canada,Nao,0.0,Nao,0,Nao
+2016,Feminino,Feminino,24.0,24.0,18–24,Canada,Nao,0.0,Sim,1,Eu nao sei
+2016,feminino,Feminino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,queer,Outro/nao binario,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,42.0,42.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Nao,0,Sim
+2016,Feminino,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,32.0,32.0,25–34,Canada,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,42.0,42.0,35–44,United States,Nao,0.0,Nao,0,
+2016,Feminino,Feminino,41.0,41.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,54.0,54.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,m,Masculino,36.0,36.0,35–44,Netherlands,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,21.0,21.0,18–24,Germany,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,44.0,44.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,m,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,M,Masculino,38.0,38.0,35–44,United Kingdom,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,38.0,38.0,35–44,United States,Nao,0.0,Nao,0,
+2016,Feminino,Feminino,22.0,22.0,18–24,Brazil,Nao,0.0,Sim,1,Eu nao sei
+2016,outro,Outro/nao binario,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2016,f,Feminino,27.0,27.0,25–34,Canada,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,55.0,55.0,55–80,United States,Nao,0.0,Sim,1,
+2016,masculino,Masculino,66.0,66.0,55–80,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,25.0,25.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,22.0,22.0,18–24,Netherlands,Nao,0.0,Nao,0,Nao elegivel
+2016,masculino,Masculino,29.0,29.0,25–34,Brazil,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,M,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,59.0,59.0,55–80,United States,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,55.0,55.0,55–80,Germany,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,41.0,41.0,35–44,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,f,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,43.0,43.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,42.0,42.0,35–44,United States,Nao,0.0,Nao,0,
+2016,feminino ,Feminino,25.0,25.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,m,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,feminino,Feminino,23.0,23.0,18–24,United States,Sim,1.0,Nao,0,Nao elegivel
+2016,Masculino,Masculino,37.0,37.0,35–44,United Kingdom,Nao,0.0,Nao,0,
+2016,m,Masculino,42.0,42.0,35–44,Netherlands,Sim,1.0,Sim,1,
+2016,masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,Canada,Nao,0.0,Nao,0,Nao
+2016,M,Masculino,28.0,28.0,25–34,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,19.0,19.0,18–24,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,31.0,31.0,25–34,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,
+2016,m,Masculino,37.0,37.0,35–44,Canada,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Mulher,Feminino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,
+2016,feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,63.0,63.0,55–80,United States,Nao,0.0,Sim,1,Sim
+2016,masculino,Masculino,45.0,45.0,45–54,Australia,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,32.0,32.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,44.0,44.0,35–44,United States,Nao,0.0,Nao,0,
+2016,queer,Outro/nao binario,28.0,28.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,feminino,Feminino,55.0,55.0,55–80,United States,Nao,0.0,Sim,1,
+2016,feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,19.0,19.0,18–24,India,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,F,Feminino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,27.0,27.0,25–34,Australia,Nao,0.0,Nao,0,Nao elegivel
+2016,masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,M,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,Canada,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino ,Masculino,44.0,44.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,Canada,Nao,0.0,Nao,0,
+2016,m,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Sim,1,
+2016,Feminino,Feminino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,
+2016,M,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,Nao
+2016,Masculino,Masculino,20.0,20.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Nao elegivel
+2016,sem gênero,Outro/nao binario,33.0,33.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao elegivel
+2016,feminino,Feminino,56.0,56.0,55–80,United States,Nao,0.0,Sim,1,
+2016,Masculino,Masculino,35.0,35.0,35–44,Canada,Nao,0.0,Nao,0,
+2016,m,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,F,Feminino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,46.0,46.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,45.0,45.0,45–54,Australia,Sim,1.0,Sim,1,
+2016,masculino,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Sim,1,Nao
+2016,Mulher,Feminino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,
+2016,Cara,Masculino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,M,Masculino,44.0,44.0,35–44,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,42.0,42.0,35–44,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,F,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,M,Masculino,31.0,31.0,25–34,Canada,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,Australia,Nao,0.0,Nao,0,Eu nao sei
+2016,Fluido,Outro/nao binario,42.0,42.0,35–44,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,51.0,51.0,45–54,United States,Sim,1.0,Sim,1,
+2016,F,Feminino,48.0,48.0,45–54,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,28.0,28.0,25–34,Australia,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,21.0,21.0,18–24,Australia,Nao,0.0,Sim,1,Nao elegivel
+2016,masculino,Masculino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,15.0,,,Canada,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,30.0,30.0,25–34,Canada,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,25.0,25.0,25–34,India,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,38.0,38.0,35–44,Germany,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,24.0,24.0,18–24,United Kingdom,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,23.0,23.0,18–24,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,Feminino,Feminino,39.0,39.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2016,masculino,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,43.0,43.0,35–44,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,M,Masculino,40.0,40.0,35–44,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,33.0,33.0,25–34,United Kingdom,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,22.0,22.0,18–24,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,25.0,25.0,25–34,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,f,Feminino,41.0,41.0,35–44,France,Sim,1.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Nao,0,Sim
+2016,Masculino,Masculino,42.0,42.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,52.0,52.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Sim,1,
+2016,Eu sou um homem!,Masculino,25.0,25.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2016,masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Nao,0,
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,mulher,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,25.0,25.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,m,Masculino,37.0,37.0,35–44,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,33.0,33.0,25–34,Canada,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,27.0,27.0,25–34,Canada,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,mascolino,Masculino,50.0,50.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,54.0,54.0,45–54,United States,Sim,1.0,Sim,1,
+2016,feminino ,Feminino,32.0,32.0,25–34,Canada,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,39.0,39.0,35–44,Canada,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,34.0,34.0,25–34,Canada,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,31.0,31.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,48.0,48.0,45–54,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,M,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,M,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,masculino,Masculino,28.0,28.0,25–34,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,F,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2016,M,Masculino,59.0,59.0,55–80,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,feminino,Feminino,27.0,27.0,25–34,Germany,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Nao,0,Nao
+2016,M,Masculino,50.0,50.0,45–54,Germany,Nao,0.0,Nao,0,
+2016,Feminino,Feminino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,50.0,50.0,45–54,Germany,Nao,0.0,Nao,0,
+2016,masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2016,Masculino,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,M,Masculino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,32.0,32.0,25–34,France,Nao,0.0,Nao,0,Eu nao sei
+2016,F,Feminino,65.0,65.0,55–80,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,41.0,41.0,35–44,United States,Nao,0.0,Sim,1,
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,51.0,51.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,31.0,31.0,25–34,Canada,Nao,0.0,Nao,0,
+2016,F,Feminino,38.0,38.0,35–44,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,63.0,63.0,55–80,United States,Nao,0.0,Sim,1,
+2016,feminino,Feminino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,40.0,40.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,43.0,43.0,35–44,United States,Nao,0.0,Nao,0,
+2016,feminino,Feminino,28.0,28.0,25–34,Germany,Sim,1.0,Nao,0,Sim
+2016,Masculino,Masculino,46.0,46.0,45–54,United Kingdom,Nao,0.0,Nao,0,
+2016,masculino,Masculino,42.0,42.0,35–44,United States,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,F,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,
+2016,M,Masculino,35.0,35.0,35–44,Canada,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,30.0,30.0,25–34,United States,Nao,0.0,Sim,1,
+2016,Masculino,Masculino,35.0,35.0,35–44,Australia,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,23.0,23.0,18–24,India,Nao,0.0,Nao,0,Nao
+2016,Feminino,Feminino,39.0,39.0,35–44,France,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,38.0,38.0,35–44,France,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,28.0,28.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2016,m,Masculino,30.0,30.0,25–34,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,Nao,0.0,Nao,0,
+2016,M,Masculino,33.0,33.0,25–34,France,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,M|,Outro/nao binario,54.0,54.0,45–54,United Kingdom,Nao,0.0,Nao,0,
+2016,feminino,Feminino,30.0,30.0,25–34,Germany,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,32.0,32.0,25–34,United Kingdom,Nao,0.0,Sim,1,
+2016,masculino,Masculino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,m,Masculino,39.0,39.0,35–44,Germany,Sim,1.0,Nao,0,Nao
+2016,não-binário,Outro/nao binario,21.0,21.0,18–24,United States,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,31.0,31.0,25–34,Germany,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,25.0,25.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,26.0,26.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,M,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,feminino,Feminino,45.0,45.0,45–54,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Feminino,Feminino,28.0,28.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,m,Masculino,38.0,38.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,36.0,36.0,35–44,Netherlands,Sim,1.0,Sim,1,
+2016,masculino,Masculino,23.0,23.0,18–24,France,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino ,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Nao,0,Sim
+2016,M,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,f,Feminino,38.0,38.0,35–44,India,Sim,1.0,Sim,1,
+2016,M,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,M,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,
+2016,M,Masculino,42.0,42.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,55.0,55.0,55–80,United States,Nao,0.0,Nao,0,Sim
+2016,m,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,30.0,30.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,31.0,31.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,feminino,Feminino,30.0,30.0,25–34,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,39.0,39.0,35–44,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,38.0,38.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,22.0,22.0,18–24,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,m,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,
+2016,m,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,masculino,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,20.0,20.0,18–24,United States,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,m,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,Brazil,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,26.0,26.0,25–34,Netherlands,Sim,1.0,Nao,0,Nao
+2016,Masculino,Masculino,27.0,27.0,25–34,Germany,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,queer,Outro/nao binario,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,25.0,25.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,fem,Feminino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,28.0,28.0,25–34,Germany,Nao,0.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,34.0,34.0,25–34,United Kingdom,Nao,0.0,Sim,1,Sim
+2016,Feminino,Feminino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,47.0,47.0,45–54,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,m,Masculino,48.0,48.0,45–54,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,44.0,44.0,35–44,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,m,Masculino,52.0,52.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,34.0,34.0,25–34,Netherlands,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,40.0,40.0,35–44,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,26.0,26.0,25–34,Canada,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,36.0,36.0,35–44,United Kingdom,Nao,0.0,Sim,1,
+2016,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,43.0,43.0,35–44,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,36.0,36.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,F,Feminino,35.0,35.0,35–44,Australia,Sim,1.0,Sim,1,Nao elegivel
+2016,m,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,51.0,51.0,45–54,Australia,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,United Kingdom,Sim,1.0,Nao,0,Eu nao sei
+2016,m,Masculino,37.0,37.0,35–44,Australia,Nao,0.0,Nao,0,
+2016,Feminino,Feminino,27.0,27.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,F,Feminino,54.0,54.0,45–54,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,42.0,42.0,35–44,Germany,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,30.0,30.0,25–34,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,M,Masculino,43.0,43.0,35–44,Australia,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,Netherlands,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,37.0,37.0,35–44,Australia,Nao,0.0,Nao,0,Nao elegivel
+2016,masculino,Masculino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,Australia,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,27.0,27.0,25–34,Canada,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,35.0,35.0,35–44,Germany,Nao,0.0,Nao,0,
+2016,masculino,Masculino,24.0,24.0,18–24,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,masculino ,Masculino,31.0,31.0,25–34,Germany,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,Australia,Sim,1.0,Sim,1,Nao
+2016,M,Masculino,56.0,56.0,55–80,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,43.0,43.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,49.0,49.0,45–54,Australia,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,53.0,53.0,45–54,Canada,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,52.0,52.0,45–54,United States,Nao,0.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,30.0,30.0,25–34,France,Sim,1.0,Sim,1,
+2016,masculino,Masculino,31.0,31.0,25–34,Netherlands,Sim,1.0,Sim,1,
+2016,humano,Outro/nao binario,24.0,24.0,18–24,United States,Nao,0.0,Sim,1,
+2016,Masculino,Masculino,44.0,44.0,35–44,Australia,Sim,1.0,Sim,1,Nao
+2016,m,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,22.0,22.0,18–24,Brazil,Sim,1.0,Nao,0,Nao
+2016,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,25.0,25.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,49.0,49.0,45–54,United States,Nao,0.0,Sim,1,
+2016,mulher,Feminino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,masculino,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,
+2016,m,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Feminino,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,21.0,21.0,18–24,United States,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,39.0,39.0,35–44,Australia,Sim,1.0,Nao,0,Nao elegivel
+2016,Masculino,Masculino,46.0,46.0,45–54,United Kingdom,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,32.0,32.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,Masculino,Masculino,31.0,31.0,25–34,United Kingdom,Nao,0.0,Nao,0,
+2016,feminino,Feminino,39.0,39.0,35–44,Germany,Sim,1.0,Sim,1,
+2016,masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,31.0,31.0,25–34,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,não binário,Outro/nao binario,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,
+2016,masculino,Masculino,23.0,23.0,18–24,Canada,Nao,0.0,Nao,0,Nao
+2016,M,Masculino,23.0,23.0,18–24,Canada,Sim,1.0,Nao,0,Sim
+2016,Feminino ,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,34.0,34.0,25–34,Canada,Nao,0.0,Sim,1,
+2016,Feminino,Feminino,49.0,49.0,45–54,United States,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,39.0,39.0,35–44,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,37.0,37.0,35–44,Germany,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,28.0,28.0,25–34,Netherlands,Nao,0.0,Nao,0,Nao
+2016, Feminino,Feminino,74.0,74.0,55–80,United States,Nao,0.0,Sim,1,Nao
+2016,Masculino,Masculino,28.0,28.0,25–34,Netherlands,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,Nao
+2016,M,Masculino,51.0,51.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Nao,0.0,Nao,0,Sim
+2016,F,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Feminino ,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,57.0,57.0,55–80,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Feminino ,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,F,Feminino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Unicórnio,Outro/nao binario,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,
+2016,M,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,cisgênero masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,37.0,37.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,m,Masculino,45.0,45.0,45–54,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,M,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,47.0,47.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,F,Feminino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,39.0,39.0,35–44,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,28.0,28.0,25–34,Brazil,Sim,1.0,Sim,1,Nao
+2016,feminino,Feminino,25.0,25.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,feminino,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,57.0,57.0,55–80,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,43.0,43.0,35–44,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,48.0,48.0,45–54,Germany,Sim,1.0,Nao,0,Sim
+2016,feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,
+2016,feminino,Feminino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,33.0,33.0,25–34,Germany,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,29.0,29.0,25–34,Netherlands,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,49.0,49.0,45–54,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,
+2016,masculino,Masculino,27.0,27.0,25–34,Canada,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,F,Feminino,43.0,43.0,35–44,United States,Nao,0.0,Nao,0,Nao
+2016,Feminino ,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,
+2016,feminino,Feminino,26.0,26.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,36.0,36.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,34.0,34.0,25–34,United Kingdom,Nao,0.0,Sim,1,Nao
+2016,feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,27.0,27.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,30.0,30.0,25–34,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,m,Masculino,34.0,34.0,25–34,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,27.0,27.0,25–34,United Kingdom,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,37.0,37.0,35–44,Canada,Nao,0.0,Nao,0,
+2016,F,Feminino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Sim,1,
+2016,feminino,Feminino,30.0,30.0,25–34,United Kingdom,Nao,0.0,Sim,1,
+2016,Masculino,Masculino,70.0,70.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,25.0,25.0,25–34,Germany,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,45.0,45.0,45–54,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,F,Feminino,63.0,63.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,40.0,40.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2016,masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,cisgênero mulher,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,44.0,44.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,queer,Outro/nao binario,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,não-binário,Outro/nao binario,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,mulher,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,22.0,22.0,18–24,United Kingdom,Nao,0.0,Sim,1,Nao elegivel
+2016,M,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,37.0,37.0,35–44,Germany,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,42.0,42.0,35–44,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,31.0,31.0,25–34,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,
+2016,F,Feminino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,29.0,29.0,25–34,Canada,Nao,0.0,Nao,0,Sim
+2016,cisgênero masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,46.0,46.0,45–54,Netherlands,Sim,1.0,Sim,1,Eu nao sei
+2016,feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,45.0,45.0,45–54,Germany,Nao,0.0,Nao,0,
+2016,M,Masculino,32.0,32.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,40.0,40.0,35–44,Netherlands,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,38.0,38.0,35–44,Germany,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,32.0,32.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Feminino,Feminino,25.0,25.0,25–34,United States,Nao,0.0,Sim,1,
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Nao,0.0,Nao,0,Nao
+2016,Feminino,Feminino,34.0,34.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,55.0,55.0,55–80,United States,Sim,1.0,Sim,1,
+2016,Masculino ,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,20.0,20.0,18–24,United States,Nao,0.0,Nao,0,Nao elegivel
+2016,masculino,Masculino,41.0,41.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,29.0,29.0,25–34,United Kingdom,Nao,0.0,Nao,0,
+2016,outro,Outro/nao binario,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,39.0,39.0,35–44,United Kingdom,Nao,0.0,Nao,0,Sim
+2016,Homem,Masculino,44.0,44.0,35–44,United Kingdom,Nao,0.0,Sim,1,
+2016,feminino,Feminino,30.0,30.0,25–34,Netherlands,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,37.0,37.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,42.0,42.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,35.0,35.0,35–44,Canada,Nao,0.0,Nao,0,
+2016,M,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,30.0,30.0,25–34,Canada,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Sim,1,Nao elegivel
+2016,Feminino,Feminino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,27.0,27.0,25–34,Germany,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,34.0,34.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,31.0,31.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,20.0,20.0,18–24,Canada,Nao,0.0,Nao,0,Nao elegivel
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,
+2016,feminino,Feminino,50.0,50.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,22.0,22.0,18–24,United States,Nao,0.0,Nao,0,Nao
+2016,masculino,Masculino,37.0,37.0,35–44,Germany,Nao,0.0,Nao,0,Nao
+2016,m,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,38.0,38.0,35–44,Netherlands,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,21.0,21.0,18–24,United Kingdom,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,f,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,45.0,45.0,45–54,United Kingdom,Nao,0.0,Sim,1,
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Nao,0.0,Nao,0,
+2016,Feminino,Feminino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,21.0,21.0,18–24,United States,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,21.0,21.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,masculino,Masculino,29.0,29.0,25–34,Germany,Nao,0.0,Nao,0,
+2016,masculino,Masculino,46.0,46.0,45–54,United States,Nao,0.0,Nao,0,Sim
+2016,cisgênero masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,,Nao informado,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,44.0,44.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,F,Feminino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,
+2016,feminino,Feminino,35.0,35.0,35–44,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Nao
+2016,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,f,Feminino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,
+2016,cisgênero masculino,Masculino,21.0,21.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,35.0,35.0,35–44,Germany,Sim,1.0,Sim,1,Sim
+2016,M,Masculino,56.0,56.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,53.0,53.0,45–54,United States,Sim,1.0,Sim,1,
+2016,f,Feminino,48.0,48.0,45–54,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,24.0,24.0,18–24,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2016,feminino,Feminino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,34.0,34.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,Masculino,Masculino,33.0,33.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,22.0,22.0,18–24,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,Feminino,Feminino,25.0,25.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,Nao,0.0,Nao,0,Eu nao sei
+2016,masculino,Masculino,30.0,30.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao elegivel
+2016,masculino,Masculino,37.0,37.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,27.0,27.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,23.0,23.0,18–24,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,feminino,Feminino,24.0,24.0,18–24,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,28.0,28.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Nao
+2016,feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,31.0,31.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,24.0,24.0,18–24,United Kingdom,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,33.0,33.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,22.0,22.0,18–24,United States,Nao,0.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,46.0,46.0,45–54,Germany,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Masculino,Masculino,22.0,22.0,18–24,United States,Nao,0.0,Nao,0,Eu nao sei
+2016,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino ,Masculino,25.0,25.0,25–34,United States,Nao,0.0,Sim,1,
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,39.0,39.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,F,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,m,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,outro,Outro/nao binario,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Nao
+2016,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,28.0,28.0,25–34,France,Nao,0.0,Nao,0,Nao elegivel
+2016,Feminino ,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,32.0,32.0,25–34,United States,Nao,0.0,Nao,0,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,
+2016,masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,F,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2016,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,29.0,29.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2016,masculino,Masculino,39.0,39.0,35–44,Canada,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,37.0,37.0,35–44,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2016,M,Masculino,35.0,35.0,35–44,United States,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,sem gênero,Outro/nao binario,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,33.0,33.0,25–34,United Kingdom,Sim,1.0,Sim,1,Sim
+2016,masculino ,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,29.0,29.0,25–34,Brazil,Sim,1.0,Sim,1,
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2016,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Nao,0,Nao
+2016,Masculino,Masculino,27.0,27.0,25–34,India,Sim,1.0,Sim,1,Nao
+2016,Masculino,Masculino,29.0,29.0,25–34,Canada,Sim,1.0,Sim,1,
+2016,m,Masculino,34.0,34.0,25–34,Germany,Nao,0.0,Nao,0,
+2016,Masculino,Masculino,36.0,36.0,35–44,United Kingdom,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,masculino,Masculino,24.0,24.0,18–24,United States,Nao,0.0,Nao,0,Nao elegivel
+2016,feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2016,feminino,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,24.0,24.0,18–24,United States,Nao,0.0,Nao,0,Nao
+2016,Masculino,Masculino,31.0,31.0,25–34,Netherlands,Sim,1.0,Sim,1,Nao
+2016,M,Masculino,39.0,39.0,35–44,United Kingdom,Sim,1.0,Nao,0,Sim
+2016,masculino,Masculino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Masculino,Masculino,29.0,29.0,25–34,United Kingdom,Nao,0.0,Nao,0,
+2016,masculino,Masculino,30.0,30.0,25–34,Canada,Nao,0.0,Nao,0,Eu nao sei
+2016,Masculino,Masculino,24.0,24.0,18–24,Canada,Nao,0.0,Nao,0,Sim
+2016,feminino,Feminino,22.0,22.0,18–24,Canada,Sim,1.0,Sim,1,Nao elegivel
+2016,Masculino,Masculino,24.0,24.0,18–24,Canada,Nao,0.0,Nao,0,Sim
+2016,Feminino,Feminino,26.0,26.0,25–34,Canada,Sim,1.0,Sim,1,Eu nao sei
+2016,feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino ,Feminino,34.0,34.0,25–34,United States,Nao,0.0,Sim,1,
+2016,MASCULINO,Masculino,56.0,56.0,55–80,United States,Sim,1.0,Nao,0,
+2016,Masculino,Masculino,52.0,52.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2016,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Nao,0,Eu nao sei
+2016,não-binário,Outro/nao binario,25.0,25.0,25–34,Canada,Nao,0.0,Nao,0,Sim
+2017,Feminino,Feminino,27.0,27.0,25–34,United Kingdom,,,Sim,1,Nao
+2017,masculino,Masculino,31.0,31.0,25–34,United Kingdom,,,Nao,0,Sim
+2017,masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,52.0,52.0,45–54,United States,,,Sim,1,
+2017,masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Sim
+2017,F,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,38.0,38.0,35–44,United States,,,Sim,1,Sim
+2017,masculino,Masculino,36.0,36.0,35–44,India,,,Sim,1,
+2017,M,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Nao,0,Eu nao sei
+2017,Feminino,Feminino,22.0,22.0,18–24,United States,Nao,0.0,Sim,1,Eu nao sei
+2017,feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,53.0,53.0,45–54,United States,,,Nao,0,
+2017,Masculino,Masculino,21.0,21.0,18–24,Germany,,,Nao,0,Eu nao sei
+2017,F,Feminino,35.0,35.0,35–44,United Kingdom,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,22.0,22.0,18–24,United Kingdom,,,Nao,0,Nao
+2017,Masculino,Masculino,18.0,18.0,18–24,United Kingdom,,,Sim,1,Nao elegivel - NA
+2017,feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,25.0,25.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2017,masculino,Masculino,40.0,40.0,35–44,Canada,,,Sim,1,Nao
+2017,F,Feminino,66.0,66.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,32.0,32.0,25–34,Canada,Sim,1.0,Sim,1,Sim
+2017,M,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,
+2017,feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Homem,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,,Nao informado,29.0,29.0,25–34,Canada,Sim,1.0,Sim,1,
+2017,f,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,40.0,40.0,35–44,United States,,,Nao,0,Sim
+2017,M,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Nao,0,Eu nao sei
+2017,Masculino,Masculino,39.0,39.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,40.0,40.0,35–44,United States,,,Sim,1,Sim
+2017,masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,43.0,43.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2017,masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Feminino,Feminino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Gênero Fluido,Outro/nao binario,37.0,37.0,35–44,Canada,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,47.0,47.0,45–54,United Kingdom,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,64.0,64.0,55–80,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,28.0,28.0,25–34,Canada,Sim,1.0,Sim,1,Nao
+2017,Masculino,Masculino,45.0,45.0,45–54,United States,,,Sim,1,
+2017,M,Masculino,37.0,37.0,35–44,United Kingdom,,,Nao,0,Sim
+2017,Feminino,Feminino,30.0,30.0,25–34,United Kingdom,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,25.0,25.0,25–34,United Kingdom,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,25.0,25.0,25–34,United Kingdom,Nao,0.0,Nao,0,Nao
+2017,Feminino,Feminino,54.0,54.0,45–54,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,61.0,61.0,55–80,United Kingdom,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,26.0,26.0,25–34,India,,,Nao,0,Nao
+2017,Feminino,Feminino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,35.0,35.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,45.0,45.0,45–54,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,23.0,23.0,18–24,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,44.0,44.0,35–44,United States,,,Nao,0,Sim
+2017,masculino,Masculino,38.0,38.0,35–44,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,46.0,46.0,45–54,United States,,,Sim,1,Sim
+2017,não binário,Outro/nao binario,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino ,Feminino,33.0,33.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,,,Nao,0,Nao elegivel - NA
+2017,Feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Nao,0,Sim
+2017,cisgênero masculino,Masculino,50.0,50.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Mascolino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,34.0,34.0,25–34,Germany,Sim,1.0,Sim,1,Nao
+2017,Masculino,Masculino,42.0,42.0,35–44,United Kingdom,,,Nao,0,Sim
+2017,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,23.0,23.0,18–24,Canada,,,Nao,0,Sim
+2017,feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Mulher,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,52.0,52.0,45–54,United States,,,Nao,0,Sim
+2017,masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Nao
+2017,masculino,Masculino,37.0,37.0,35–44,Canada,,,Nao,0,Nao
+2017,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,57.0,57.0,55–80,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,38.0,38.0,35–44,Germany,,,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,52.0,52.0,45–54,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,29.0,29.0,25–34,Germany,,,Nao,0,
+2017,Feminino,Feminino,26.0,26.0,25–34,United Kingdom,,,Nao,0,Eu nao sei
+2017,feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,18.0,18.0,18–24,Canada,,,Nao,0,
+2017,Masculino,Masculino,42.0,42.0,35–44,Australia,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,,,Sim,1,Sim
+2017,M,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,40.0,40.0,35–44,United States,,,Sim,1,Sim
+2017,feminino,Feminino,36.0,36.0,35–44,United States,,,Sim,1,Sim
+2017,feminino,Feminino,48.0,48.0,45–54,United States,,,Nao,0,
+2017,masculino,Masculino,43.0,43.0,35–44,United States,,,Nao,0,Sim
+2017,Homem,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,42.0,42.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,46.0,46.0,45–54,United Kingdom,Sim,1.0,Sim,1,Nao
+2017,masculino,Masculino,30.0,30.0,25–34,United States,Nao,0.0,Sim,1,Sim
+2017,Masculino,Masculino,25.0,25.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2017,,Nao informado,28.0,28.0,25–34,Canada,,,Nao,0,Sim
+2017,Feminino,Feminino,24.0,24.0,18–24,Germany,,,Sim,1,Sim
+2017,masculino,Masculino,26.0,26.0,25–34,United Kingdom,,,Nao,0,Eu nao sei
+2017,cisgênero masculino,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Nao,0,Sim
+2017,feminino,Feminino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,22.0,22.0,18–24,India,,,Nao,0,Nao
+2017,m,Masculino,41.0,41.0,35–44,Germany,,,Sim,1,
+2017,Feminino,Feminino,26.0,26.0,25–34,United Kingdom,,,Nao,0,Nao
+2017,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,
+2017,masculino,Masculino,24.0,24.0,18–24,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,54.0,54.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,m,Masculino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,,Nao informado,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,48.0,48.0,45–54,United States,,,Sim,1,Sim
+2017,masculino,Masculino,35.0,35.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,25.0,25.0,25–34,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,M,Masculino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Feminino,Feminino,33.0,33.0,25–34,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,m,Masculino,48.0,48.0,45–54,United States,,,Nao,0,Sim
+2017,f,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,36.0,36.0,35–44,United States,Nao,0.0,Sim,1,
+2017,Feminino,Feminino,29.0,29.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2017,feminino,Feminino,23.0,23.0,18–24,Canada,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,50.0,50.0,45–54,United States,,,Nao,0,Sim
+2017,feminino,Feminino,42.0,42.0,35–44,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,35.0,35.0,35–44,Australia,,,Sim,1,
+2017,Masculino,Masculino,22.0,22.0,18–24,United States,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,femininu,Feminino,29.0,29.0,25–34,Canada,,,Sim,1,Sim
+2017,Masculino,Masculino,20.0,20.0,18–24,India,,,Nao,0,
+2017,feminino,Feminino,36.0,36.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,masculino,Masculino,36.0,36.0,35–44,United States,,,Sim,1,
+2017,masculino,Masculino,28.0,28.0,25–34,United States,,,Sim,1,Sim
+2017,cisgênero masculino,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2017,m,Masculino,64.0,64.0,55–80,Australia,Sim,1.0,Sim,1,
+2017,feminino,Feminino,34.0,34.0,25–34,Germany,,,Sim,1,
+2017,m,Masculino,26.0,26.0,25–34,Brazil,,,Nao,0,
+2017,f,Feminino,47.0,47.0,45–54,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,24.0,24.0,18–24,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,37.0,37.0,35–44,Australia,,,Sim,1,Sim
+2017,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,34.0,34.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,35.0,35.0,35–44,United States,,,Nao,0,Sim
+2017,queer,Outro/nao binario,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,,Nao informado,23.0,23.0,18–24,Canada,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,31.0,31.0,25–34,United States,,,Nao,0,Sim
+2017,M,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,"masculino (ei estamos em TI, do que vc está falando)",Outro/nao binario,42.0,42.0,35–44,United Kingdom,,,Nao,0,
+2017,cisgênero feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Feminino,Feminino,29.0,29.0,25–34,Germany,,,Sim,1,Sim
+2017,Masculino,Masculino,35.0,35.0,35–44,United States,,,Nao,0,Sim
+2017,outros,Outro/nao binario,26.0,26.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,M,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Sim
+2017,Feminino ,Feminino,44.0,44.0,35–44,United States,,,Sim,1,Sim
+2017,cisgênero masculino,Masculino,44.0,44.0,35–44,United States,,,Nao,0,Sim
+2017,feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,28.0,28.0,25–34,Canada,Sim,1.0,Sim,1,
+2017,Feminino,Feminino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,32.0,32.0,25–34,France,,,Sim,1,Eu nao sei
+2017,M,Masculino,33.0,33.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,45.0,45.0,45–54,United States,,,Nao,0,Nao
+2017,Feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,25.0,25.0,25–34,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,25.0,25.0,25–34,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,22.0,22.0,18–24,United States,,,Nao,0,Sim
+2017,f,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,40.0,40.0,35–44,India,Nao,0.0,Nao,0,Nao
+2017,Masculino,Masculino,28.0,28.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,35.0,35.0,35–44,Canada,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,20.0,20.0,18–24,United Kingdom,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,62.0,62.0,55–80,United States,,,Nao,0,Sim
+2017,masculino,Masculino,42.0,42.0,35–44,United States,,,Nao,0,
+2017,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,29.0,29.0,25–34,Germany,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,37.0,37.0,35–44,United Kingdom,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,51.0,51.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,60.0,60.0,55–80,United States,,,Sim,1,Sim
+2017,F,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,
+2017,f,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2017,m,Masculino,38.0,38.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2017,feminino,Feminino,50.0,50.0,45–54,United Kingdom,,,Sim,1,
+2017,Masculino,Masculino,41.0,41.0,35–44,United Kingdom,,,Sim,1,Sim
+2017,feminino,Feminino,58.0,58.0,55–80,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Feminino,Feminino,42.0,42.0,35–44,United States,,,Nao,0,Sim
+2017,masculino,Masculino,33.0,33.0,25–34,Germany,,,Nao,0,Nao
+2017,não binário,Outro/nao binario,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,40.0,40.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,Meu sexo é feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,49.0,49.0,45–54,United States,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2017,M,Masculino,26.0,26.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,24.0,24.0,18–24,United States,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,34.0,34.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,47.0,47.0,45–54,United States,,,Nao,0,Sim
+2017,masculino,Masculino,59.0,59.0,55–80,United States,,,Nao,0,Sim
+2017,masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,26.0,26.0,25–34,United States,,,Nao,0,Nao
+2017,Masculino,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,39.0,39.0,35–44,United Kingdom,,,Nao,0,
+2017,M,Masculino,43.0,43.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,40.0,40.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2017,masculino,Masculino,22.0,22.0,18–24,Germany,,,Nao,0,Eu nao sei
+2017,m,Masculino,24.0,24.0,18–24,Netherlands,Sim,1.0,Nao,0,Nao elegivel - NA
+2017,masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,40.0,40.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,26.0,26.0,25–34,Canada,,,Sim,1,
+2017,Masculino,Masculino,23.0,23.0,18–24,Brazil,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2017,masculino,Masculino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,49.0,49.0,45–54,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,F,Feminino,39.0,39.0,35–44,United States,,,Nao,0,Sim
+2017,M,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,M,Masculino,50.0,50.0,45–54,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,36.0,36.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,50.0,50.0,45–54,United States,,,Nao,0,Sim
+2017,feminino,Feminino,47.0,47.0,45–54,United States,,,Nao,0,Eu nao sei
+2017,m,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Sim
+2017,m,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,,Nao informado,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,26.0,26.0,25–34,United States,,,Nao,0,Sim
+2017,feminino,Feminino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,35.0,35.0,35–44,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,44.0,44.0,35–44,United States,,,Sim,1,Sim
+2017,feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,33.0,33.0,25–34,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,28.0,28.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,53.0,53.0,45–54,Australia,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,32.0,32.0,25–34,Netherlands,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,24.0,24.0,18–24,Germany,,,Sim,1,
+2017,Masculino,Masculino,37.0,37.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao
+2017,masculino,Masculino,31.0,31.0,25–34,Netherlands,,,Nao,0,Sim
+2017,Masculino,Masculino,40.0,40.0,35–44,United Kingdom,,,Sim,1,Nao
+2017,Masculino,Masculino,31.0,31.0,25–34,India,,,Sim,1,
+2017,Masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,,Nao informado,21.0,21.0,18–24,United States,,,Sim,1,Eu nao sei
+2017,feminino,Feminino,67.0,67.0,55–80,United States,,,Sim,1,
+2017,cisgênero masculino,Masculino,35.0,35.0,35–44,United Kingdom,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,f,Feminino,44.0,44.0,35–44,Australia,Sim,1.0,Sim,1,Nao
+2017,Masculino,Masculino,57.0,57.0,55–80,United States,,,Nao,0,Sim
+2017,feminino,Feminino,38.0,38.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,feminino,Feminino,27.0,27.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,26.0,26.0,25–34,Australia,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,m,Masculino,36.0,36.0,35–44,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,United Kingdom,,,Nao,0,Nao elegivel - NA
+2017,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Nao,0.0,Sim,1,Sim
+2017,masculino,Masculino,35.0,35.0,35–44,France,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,33.0,33.0,25–34,Australia,,,Nao,0,Sim
+2017,Masculino,Masculino,32.0,32.0,25–34,Netherlands,,,Nao,0,Nao
+2017,M,Masculino,45.0,45.0,45–54,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2017,masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,51.0,51.0,45–54,United States,,,Sim,1,Sim
+2017,masculino,Masculino,29.0,29.0,25–34,Germany,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,30.0,30.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2017,feminino,Feminino,33.0,33.0,25–34,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,42.0,42.0,35–44,United States,,,Nao,0,Sim
+2017,masculino,Masculino,47.0,47.0,45–54,Australia,,,Nao,0,Nao elegivel - NA
+2017,Feminino,Feminino,31.0,31.0,25–34,Netherlands,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,32.0,32.0,25–34,United Kingdom,,,Nao,0,Eu nao sei
+2017,Masculino ,Masculino,60.0,60.0,55–80,Netherlands,,,Nao,0,
+2017,Masculino,Masculino,41.0,41.0,35–44,Germany,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,25.0,25.0,25–34,India,,,Nao,0,Sim
+2017,Feminino,Feminino,31.0,31.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2017,Masculino,Masculino,41.0,41.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2017,não binário,Outro/nao binario,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,M,Masculino,34.0,34.0,25–34,India,,,Nao,0,Sim
+2017,Masculino,Masculino,38.0,38.0,35–44,France,,,Nao,0,
+2017,masculino,Masculino,30.0,30.0,25–34,United States,,,Sim,1,Nao
+2017,Masculino,Masculino,27.0,27.0,25–34,France,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,41.0,41.0,35–44,United States,,,Nao,0,Sim
+2017,M,Masculino,41.0,41.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Sim
+2017,masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2017,cisgênero masculino,Masculino,41.0,41.0,35–44,Australia,,,Sim,1,
+2017,Masculino,Masculino,46.0,46.0,45–54,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,28.0,28.0,25–34,Germany,Sim,1.0,Sim,1,Sim
+2017,Feminino ,Feminino,28.0,28.0,25–34,Netherlands,Sim,1.0,Sim,1,Nao
+2017,cisgênero masculino,Masculino,38.0,38.0,35–44,Germany,,,Sim,1,Sim
+2017,Masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,38.0,38.0,35–44,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,48.0,48.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Mulher,Feminino,44.0,44.0,35–44,France,,,Nao,0,Nao
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2017,masculino,Masculino,39.0,39.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao
+2017,Masculino,Masculino,33.0,33.0,25–34,United States,,,Nao,0,Sim
+2017,masculino,Masculino,31.0,31.0,25–34,Germany,,,Nao,0,
+2017,Masculino,Masculino,44.0,44.0,35–44,France,,,Nao,0,Sim
+2017,Feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Feminino,Feminino,32.0,32.0,25–34,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,40.0,40.0,35–44,France,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,21.0,21.0,18–24,United States,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,37.0,37.0,35–44,France,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,
+2017,Masculino,Masculino,33.0,33.0,25–34,United Kingdom,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,28.0,28.0,25–34,United States,,,Sim,1,Sim
+2017,masculino,Masculino,41.0,41.0,35–44,United States,,,Nao,0,Sim
+2017,masculino,Masculino,34.0,34.0,25–34,Germany,,,Nao,0,Nao
+2017,Masculino,Masculino,37.0,37.0,35–44,United Kingdom,,,Nao,0,
+2017,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,52.0,52.0,45–54,Germany,,,Nao,0,Nao
+2017,Masculino,Masculino,39.0,39.0,35–44,United Kingdom,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,45.0,45.0,45–54,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,50.0,50.0,45–54,Netherlands,,,Nao,0,
+2017,Masculino,Masculino,27.0,27.0,25–34,France,,,Sim,1,Eu nao sei
+2017,f,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,44.0,44.0,35–44,Netherlands,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,31.0,31.0,25–34,France,,,Nao,0,Sim
+2017,Masculino,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,38.0,38.0,35–44,France,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,33.0,33.0,25–34,France,,,Nao,0,Sim
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,
+2017,Masculino ,Masculino,47.0,47.0,45–54,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,29.0,29.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,38.0,38.0,35–44,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,29.0,29.0,25–34,Canada,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,M,Masculino,39.0,39.0,35–44,India,Sim,1.0,Sim,1,
+2017,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,f,Feminino,57.0,57.0,55–80,Canada,Sim,1.0,Sim,1,
+2017,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,Feminino,Feminino,38.0,38.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,39.0,39.0,35–44,France,,,Sim,1,
+2017,Masculino,Masculino,24.0,24.0,18–24,United Kingdom,Sim,1.0,Sim,1,Nao
+2017,feminino,Feminino,30.0,30.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2017,Masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Sim
+2017,M,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,m,Masculino,52.0,52.0,45–54,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2017,Masculino,Masculino,52.0,52.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,49.0,49.0,45–54,United States,,,Nao,0,Sim
+2017,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,41.0,41.0,35–44,Australia,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,29.0,29.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,,Nao informado,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,F,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,mulher,Feminino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2017,f,Feminino,29.0,29.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,47.0,47.0,45–54,United States,,,Nao,0,Sim
+2017,Mulher,Feminino,56.0,56.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,22.0,22.0,18–24,United States,,,Nao,0,Eu nao sei
+2017,feminino,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,outro,Outro/nao binario,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,M,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,29.0,29.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,,Nao informado,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,
+2017,feminino,Feminino,33.0,33.0,25–34,United States,,,Sim,1,Sim
+2017,cisgênero feminino,Feminino,36.0,36.0,35–44,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,30.0,30.0,25–34,United States,,,Nao,0,Nao
+2017,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,35.0,35.0,35–44,Canada,Sim,1.0,Sim,1,Nao
+2017,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,25.0,25.0,25–34,United Kingdom,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,40.0,40.0,35–44,United States,,,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,31.0,31.0,25–34,Canada,,,Nao,0,Sim
+2017,Masculino,Masculino,49.0,49.0,45–54,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,Netherlands,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,35.0,35.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,29.0,29.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,50.0,50.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,40.0,40.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao
+2017,Masculino,Masculino,31.0,31.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,f,Feminino,25.0,25.0,25–34,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,37.0,37.0,35–44,United Kingdom,,,Nao,0,Sim
+2017,M,Masculino,54.0,54.0,45–54,United States,,,Nao,0,Nao
+2017,Feminino,Feminino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Sim
+2017,masculino,Masculino,40.0,40.0,35–44,Netherlands,,,Nao,0,
+2017,cisgênero feminino,Feminino,52.0,52.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,33.0,33.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,25.0,25.0,25–34,United States,,,Nao,0,Sim
+2017,Mulher,Feminino,33.0,33.0,25–34,Canada,Sim,1.0,Sim,1,
+2017,Contextual,Outro/nao binario,36.0,36.0,35–44,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,23.0,23.0,18–24,United States,,,Nao,0,Sim
+2017,m,Masculino,37.0,37.0,35–44,Canada,,,Nao,0,Nao
+2017,Masculino,Masculino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Feminino,Feminino,32.0,32.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,23.0,23.0,18–24,United States,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,24.0,24.0,18–24,United States,,,Nao,0,Eu nao sei
+2017,m,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,42.0,42.0,35–44,United Kingdom,Sim,1.0,Sim,1,Nao
+2017,Feminino,Feminino,23.0,23.0,18–24,United States,,,Nao,0,Sim
+2017,,Nao informado,39.0,39.0,35–44,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,35.0,35.0,35–44,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,24.0,24.0,18–24,United States,,,Nao,0,Sim
+2017,m,Masculino,35.0,35.0,35–44,United States,,,Nao,0,Sim
+2017,masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Sim
+2017,F,Feminino,28.0,28.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,F,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,27.0,27.0,25–34,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,Netherlands,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Sim
+2017,feminino,Feminino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,26.0,26.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,masculino,Masculino,24.0,24.0,18–24,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,40.0,40.0,35–44,Germany,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,42.0,42.0,35–44,United States,,,Nao,0,
+2017,Não binário,Outro/nao binario,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,M,Masculino,40.0,40.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,queer,Outro/nao binario,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino ,Masculino,34.0,34.0,25–34,United States,,,Sim,1,Sim
+2017,masculino,Masculino,26.0,26.0,25–34,United States,,,Nao,0,Nao
+2017,Feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,queer,Outro/nao binario,33.0,33.0,25–34,United Kingdom,Nao,0.0,Sim,1,Nao
+2017,f,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,22.0,22.0,18–24,United Kingdom,,,Nao,0,Nao
+2017,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,
+2017,Feminino,Feminino,51.0,51.0,45–54,United States,,,Nao,0,Eu nao sei
+2017,Masculino ,Masculino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,M,Masculino,46.0,46.0,45–54,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,43.0,43.0,35–44,Canada,,,Sim,1,
+2017,M,Masculino,50.0,50.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,27.0,27.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,31.0,31.0,25–34,United Kingdom,,,Nao,0,
+2017,masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,m,Masculino,49.0,49.0,45–54,United States,,,Sim,1,
+2017,m,Masculino,37.0,37.0,35–44,Canada,,,Nao,0,
+2017,cisgênero feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,32.0,32.0,25–34,India,,,Nao,0,Nao
+2017,Masculino,Masculino,31.0,31.0,25–34,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,40.0,40.0,35–44,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,56.0,56.0,55–80,United States,,,Nao,0,
+2017,não binário,Outro/nao binario,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino ,Masculino,25.0,25.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,48.0,48.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,cisgênero feminino,Feminino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,29.0,29.0,25–34,United States,,,Nao,0,Sim
+2017,não-binário,Outro/nao binario,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,31.0,31.0,25–34,United States,,,Sim,1,Nao elegivel - NA
+2017,Masculino ,Masculino,33.0,33.0,25–34,United Kingdom,,,Nao,0,Sim
+2017,Masculino,Masculino,49.0,49.0,45–54,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,,,Nao,0,
+2017,Feminino,Feminino,30.0,30.0,25–34,Australia,,,Nao,0,Nao
+2017,Masculino,Masculino,36.0,36.0,35–44,United Kingdom,Nao,0.0,Sim,1,
+2017,mulher,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,36.0,36.0,35–44,United States,,,Nao,0,
+2017,cisgênero feminino,Feminino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,28.0,28.0,25–34,United Kingdom,,,Sim,1,Nao
+2017,Feminino,Feminino,21.0,21.0,18–24,India,,,Nao,0,Nao
+2017,Masculino,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,20.0,20.0,18–24,Germany,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,44.0,44.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,Sim,1.0,Sim,1,
+2017,feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Feminino,Feminino,45.0,45.0,45–54,United States,,,Nao,0,
+2017,Masculino,Masculino,35.0,35.0,35–44,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2017,masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,22.0,22.0,18–24,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,33.0,33.0,25–34,United States,,,Nao,0,
+2017,masculino,Masculino,30.0,30.0,25–34,India,,,Nao,0,
+2017,Masculino,Masculino,41.0,41.0,35–44,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,48.0,48.0,45–54,United States,,,Nao,0,Sim
+2017,masculino,Masculino,32.0,32.0,25–34,Germany,,,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,
+2017,\----,Outro/nao binario,32.0,32.0,25–34,United Kingdom,,,Nao,0,Nao
+2017,m,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,
+2017,transgênero,Outro/nao binario,31.0,31.0,25–34,Netherlands,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,35.0,35.0,35–44,United Kingdom,,,Sim,1,Nao
+2017,Masculino,Masculino,37.0,37.0,35–44,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,26.0,26.0,25–34,United Kingdom,,,Sim,1,Nao
+2017,masculino,Masculino,50.0,50.0,45–54,United States,,,Sim,1,Sim
+2017,m,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,23.0,23.0,18–24,United States,,,Nao,0,Nao elegivel - NA
+2017,f,Feminino,40.0,40.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,M,Masculino,36.0,36.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Nao,0,Eu nao sei
+2017,F,Feminino,29.0,29.0,25–34,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2017,masculino,Masculino,51.0,51.0,45–54,United States,,,Nao,0,Nao
+2017,Masculino,Masculino,36.0,36.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,40.0,40.0,35–44,United States,,,Nao,0,Sim
+2017,M,Masculino,39.0,39.0,35–44,Canada,,,Sim,1,Sim
+2017,f,Feminino,32.0,32.0,25–34,Netherlands,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,45.0,45.0,45–54,United States,,,Nao,0,Nao
+2017,Masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,m,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2017,m,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,30.0,30.0,25–34,France,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,31.0,31.0,25–34,United Kingdom,,,Sim,1,
+2017,Masculino,Masculino,32.0,32.0,25–34,United Kingdom,,,Sim,1,Sim
+2017,masculino,Masculino,39.0,39.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,F,Feminino,45.0,45.0,45–54,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,26.0,26.0,25–34,United States,,,Nao,0,
+2017,Feminino,Feminino,36.0,36.0,35–44,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,55.0,55.0,55–80,United States,,,Sim,1,Eu nao sei
+2017,F,Feminino,32.0,32.0,25–34,Canada,Sim,1.0,Sim,1,
+2017,transgênero,Outro/nao binario,40.0,40.0,35–44,United States,,,Sim,1,Sim
+2017,feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,feminino,Feminino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2017,Masculino,Masculino,31.0,31.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,feminino,Feminino,29.0,29.0,25–34,Canada,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,40.0,40.0,35–44,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,41.0,41.0,35–44,United States,,,Nao,0,Sim
+2017,M,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Sim
+2017,Feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,
+2017,m,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,32.0,32.0,25–34,France,,,Nao,0,Sim
+2017,Homem,Masculino,24.0,24.0,18–24,France,,,Nao,0,Eu nao sei
+2017,F,Feminino,40.0,40.0,35–44,France,,,Sim,1,Nao elegivel - NA
+2017,cisgênero masculino,Masculino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,49.0,49.0,45–54,United Kingdom,,,Nao,0,Sim
+2017,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,Masculino,Masculino,22.0,22.0,18–24,United States,,,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,41.0,41.0,35–44,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,36.0,36.0,35–44,United States,,,Nao,0,Nao
+2017,Masculino,Masculino,32.0,32.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,23.0,23.0,18–24,United States,Nao,0.0,Sim,1,Eu nao sei
+2017,M,Masculino,53.0,53.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,,,Sim,1,Nao
+2017,Masculino,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,
+2017,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,F,Feminino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2017,feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2017,masculino,Masculino,36.0,36.0,35–44,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,25.0,25.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,30.0,30.0,25–34,United States,,,Sim,1,Nao elegivel - NA
+2017,Masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Sim
+2017,Nenhum,Outro/nao binario,31.0,31.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,48.0,48.0,45–54,United States,,,Nao,0,Sim
+2017,Masculino,Masculino,43.0,43.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,masculino,Masculino,35.0,35.0,35–44,United States,,,Nao,0,Sim
+2017,feminino,Feminino,31.0,31.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,28.0,28.0,25–34,India,,,Nao,0,Nao
+2017,masculino,Masculino,27.0,27.0,25–34,United States,,,Nao,0,Eu nao sei
+2017,Masculino,Masculino,28.0,28.0,25–34,United States,,,Sim,1,Eu nao sei
+2017,Feminino,Feminino,43.0,43.0,35–44,United States,,,Sim,1,Sim
+2017,F,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2017,cisgênero masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Feminino,Feminino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,F,Feminino,29.0,29.0,25–34,United States,,,Sim,1,Sim
+2017,Feminino,Feminino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,
+2017,Masculino,Masculino,53.0,53.0,45–54,United States,,,Sim,1,Sim
+2017,masculino,Masculino,43.0,43.0,35–44,United States,,,Sim,1,
+2017,Masculino,Masculino,44.0,44.0,35–44,United States,,,Nao,0,Eu nao sei
+2017,Feminino,Feminino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2017,F,Feminino,57.0,57.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,47.0,47.0,45–54,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,34.0,34.0,25–34,United States,,,Sim,1,Sim
+2017,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2017,Masculino,Masculino,38.0,38.0,35–44,United States,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,41.0,41.0,35–44,United Kingdom,,,Sim,1,Eu nao sei
+2017,Masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2017,cara,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Sim
+2018,Feminino,Feminino,57.0,57.0,55–80,Canada,,,Sim,1,Sim
+2018,masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,46.0,46.0,45–54,United States,,,Nao,0,Sim
+2018,Ostensivamente Masculino,Outro/nao binario,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,55.0,55.0,55–80,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,31.0,31.0,25–34,Germany,Sim,1.0,Sim,1,Nao
+2018,Feminino,Feminino,38.0,38.0,35–44,Canada,,,Nao,0,
+2018,Masculino,Masculino,26.0,26.0,25–34,Germany,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,35.0,35.0,35–44,Canada,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,47.0,47.0,45–54,United States,Sim,1.0,Nao,0,Sim
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,46.0,46.0,45–54,United Kingdom,Sim,1.0,Sim,1,
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,45.0,45.0,45–54,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,masculino,Masculino,46.0,46.0,45–54,Germany,,,Sim,1,Nao
+2018,masculino,Masculino,29.0,29.0,25–34,India,,,Nao,0,Nao
+2018,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,
+2018,Masculino,Masculino,44.0,44.0,35–44,Canada,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Sim
+2018,masculino,Masculino,19.0,19.0,18–24,Australia,,,Nao,0,Sim
+2018,M,Masculino,38.0,38.0,35–44,United Kingdom,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,61.0,61.0,55–80,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2018,Masculino,Masculino,44.0,44.0,35–44,United States,,,Nao,0,Sim
+2018,Feminino ,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,
+2018,Feminino,Feminino,30.0,30.0,25–34,United States,,,Sim,1,Sim
+2018,masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,,Nao informado,30.0,30.0,25–34,Netherlands,,,Nao,0,
+2018,masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,
+2018,Masculino,Masculino,28.0,28.0,25–34,India,,,Nao,0,Nao
+2018,masculino,Masculino,42.0,42.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2018,masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,masculino,Masculino,31.0,31.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,24.0,24.0,18–24,United States,,,Sim,1,
+2018,Feminino,Feminino,27.0,27.0,25–34,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,36.0,36.0,35–44,United States,,,Sim,1,Sim
+2018,masculino,Masculino,33.0,33.0,25–34,United States,,,Sim,1,Eu nao sei
+2018,M,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,
+2018,Masculino,Masculino,26.0,26.0,25–34,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,25.0,25.0,25–34,United States,,,Nao,0,Sim
+2018,feminino,Feminino,19.0,19.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,M,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2018,masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,M,Masculino,46.0,46.0,45–54,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,26.0,26.0,25–34,Brazil,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,29.0,29.0,25–34,United Kingdom,,,Nao,0,Sim
+2018,Masculino,Masculino,57.0,57.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,38.0,38.0,35–44,United States,,,Nao,0,Sim
+2018,Feminino,Feminino,20.0,20.0,18–24,United Kingdom,Sim,1.0,Sim,1,Sim
+2018,M,Masculino,41.0,41.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,masculino,Masculino,43.0,43.0,35–44,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,40.0,40.0,35–44,United States,,,Sim,1,Eu nao sei
+2018,masculino,Masculino,28.0,28.0,25–34,Brazil,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Sim
+2018,M,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,m,Masculino,22.0,22.0,18–24,India,,,Nao,0,Nao
+2018,mulher,Feminino,29.0,29.0,25–34,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Nao,0,
+2018,F,Feminino,32.0,32.0,25–34,Germany,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,27.0,27.0,25–34,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2018,Feminino,Feminino,53.0,53.0,45–54,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,32.0,32.0,25–34,France,,,Nao,0,Nao elegivel - NA
+2018,Me identifico como feminina,Outro/nao binario,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,F,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2018,Masculino,Masculino,47.0,47.0,45–54,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,36.0,36.0,35–44,United States,,,Nao,0,
+2018,Masculino,Masculino,61.0,61.0,55–80,United States,,,Sim,1,Sim
+2018,masculino,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,31.0,31.0,25–34,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,
+2018,Masculino,Masculino,41.0,41.0,35–44,United States,,,Nao,0,Sim
+2018,M,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,27.0,27.0,25–34,United States,,,Sim,1,Sim
+2018,Feminino,Feminino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2018,Feminino,Feminino,67.0,67.0,55–80,United States,,,Sim,1,
+2018,masculino,Masculino,56.0,56.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,37.0,37.0,35–44,United Kingdom,,,Sim,1,Sim
+2018,Feminino,Feminino,30.0,30.0,25–34,United Kingdom,Sim,1.0,Nao,0,Sim
+2018,Masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Sim
+2018,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2018,masculino,Masculino,31.0,31.0,25–34,Netherlands,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,46.0,46.0,45–54,United Kingdom,,,Sim,1,Sim
+2018,Feminino,Feminino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2018,f,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2018,m,Masculino,41.0,41.0,35–44,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,33.0,33.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,não binário,Outro/nao binario,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,
+2018,f,Feminino,29.0,29.0,25–34,Canada,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,41.0,41.0,35–44,Australia,Sim,1.0,Sim,1,
+2018,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,"Masculino (or feminino, ou ambos)",Outro/nao binario,37.0,37.0,35–44,Netherlands,,,Sim,1,
+2018,Masculino,Masculino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2018,Feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Nao,0,Sim
+2018,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,25.0,25.0,25–34,United Kingdom,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,54.0,54.0,45–54,United Kingdom,,,Nao,0,
+2018,masculino,Masculino,24.0,24.0,18–24,United Kingdom,,,Nao,0,
+2018,masculino,Masculino,32.0,32.0,25–34,United Kingdom,,,Sim,1,
+2018,Masculino,Masculino,44.0,44.0,35–44,United States,,,Sim,1,Sim
+2018,Transgênero,Outro/nao binario,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,41.0,41.0,35–44,United States,,,Sim,1,Sim
+2018,masculino,Masculino,38.0,38.0,35–44,United States,,,Nao,0,Sim
+2018,cisgênero masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,m,Masculino,33.0,33.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,Feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,M,Masculino,34.0,34.0,25–34,United States,,,Sim,1,Nao elegivel - NA
+2018,Feminino,Feminino,44.0,44.0,35–44,United States,,,Sim,1,Nao
+2018,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,m,Masculino,55.0,55.0,55–80,United States,,,Nao,0,Nao
+2018,M,Masculino,25.0,25.0,25–34,India,,,Nao,0,Nao elegivel - NA
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Sim
+2018,masculino,Masculino,23.0,23.0,18–24,United States,,,Nao,0,Sim
+2018,f,Feminino,34.0,34.0,25–34,United States,,,Nao,0,
+2018,M,Masculino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,25.0,25.0,25–34,United States,,,Nao,0,Nao
+2018,Masculino ,Masculino,36.0,36.0,35–44,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,33.0,33.0,25–34,United States,,,Sim,1,Sim
+2018,masculino,Masculino,34.0,34.0,25–34,United States,,,Nao,0,Sim
+2018,m,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2018,Transgênero,Outro/nao binario,54.0,54.0,45–54,United States,,,Sim,1,Sim
+2018,masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,cisgênero masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,m,Masculino,29.0,29.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,31.0,31.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,43.0,43.0,35–44,United States,,,Sim,1,Sim
+2018,não binário,Outro/nao binario,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,35.0,35.0,35–44,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,42.0,42.0,35–44,United Kingdom,,,Sim,1,Eu nao sei
+2018,masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,38.0,38.0,35–44,United States,Nao,0.0,Sim,1,Sim
+2018,Masculino,Masculino,41.0,41.0,35–44,United Kingdom,,,Sim,1,Eu nao sei
+2018,f,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,33.0,33.0,25–34,United States,,,Nao,0,Sim
+2018,feminino,Feminino,35.0,35.0,35–44,United States,,,Sim,1,Eu nao sei
+2018,Feminino,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,,Nao informado,45.0,45.0,45–54,United States,,,Nao,0,
+2018,cisgênero feminino,Feminino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,34.0,34.0,25–34,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2018,M,Masculino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,cisgênero masculino,Masculino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,
+2018,m,Masculino,36.0,36.0,35–44,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2018,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,cisgênero feminino,Feminino,49.0,49.0,45–54,United States,,,Sim,1,Eu nao sei
+2018,Masculino,Masculino,33.0,33.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,,Nao informado,29.0,29.0,25–34,United Kingdom,,,Sim,1,Nao elegivel - NA
+2018,M,Masculino,34.0,34.0,25–34,United States,,,Nao,0,
+2018,Masculino,Masculino,29.0,29.0,25–34,United Kingdom,,,Sim,1,Eu nao sei
+2018,Masculino,Masculino,25.0,25.0,25–34,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,
+2018,Masculino,Masculino,21.0,21.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2018,M,Masculino,43.0,43.0,35–44,United States,,,Sim,1,Sim
+2018,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,cisgênero feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Homem,Masculino,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,28.0,28.0,25–34,United States,,,Sim,1,Sim
+2018,Feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,M,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Sim
+2018,cisgênero feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,F,Feminino,32.0,32.0,25–34,United States,,,Sim,1,
+2018,M,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2018,Feminino,Feminino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,31.0,31.0,25–34,Germany,Sim,1.0,Sim,1,Nao
+2018,Feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,30.0,30.0,25–34,United States,,,Sim,1,Nao
+2018,Transgênero,Outro/nao binario,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,28.0,28.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,28.0,28.0,25–34,United States,,,Sim,1,Nao
+2018,Masculino,Masculino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,28.0,28.0,25–34,United States,,,Sim,1,Sim
+2018,Feminino,Feminino,28.0,28.0,25–34,United States,Nao,0.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,43.0,43.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,Feminino,Feminino,31.0,31.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,feminino,Feminino,40.0,40.0,35–44,United States,,,Nao,0,Sim
+2018,Feminino,Feminino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,38.0,38.0,35–44,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,21.0,21.0,18–24,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2018,mulher,Feminino,32.0,32.0,25–34,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,32.0,32.0,25–34,United States,,,Sim,1,Nao elegivel - NA
+2018,Masculino ,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,
+2018,Masculino,Masculino,28.0,28.0,25–34,United States,,,Sim,1,Sim
+2018,Feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2018,outros,Outro/nao binario,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,queer,Outro/nao binario,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Mulher,Feminino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,28.0,28.0,25–34,United States,,,Nao,0,Sim
+2018,feminino,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,33.0,33.0,25–34,United States,,,Nao,0,Sim
+2018,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,
+2018,Feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,32.0,32.0,25–34,United States,,,Nao,0,Sim
+2018,Feminino,Feminino,30.0,30.0,25–34,United States,,,Nao,0,Nao
+2018,Feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,41.0,41.0,35–44,United States,,,Sim,1,Eu nao sei
+2018,Feminino,Feminino,39.0,39.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,outros,Outro/nao binario,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2018,Feminino,Feminino,21.0,21.0,18–24,United States,,,Nao,0,Nao elegivel - NA
+2018,Masculino,Masculino,38.0,38.0,35–44,United States,,,Nao,0,
+2018,Feminino ,Feminino,35.0,35.0,35–44,United States,,,Nao,0,Sim
+2018,Masculino ,Masculino,38.0,38.0,35–44,Netherlands,,,Nao,0,Sim
+2018,feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2018,Feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,41.0,41.0,35–44,United States,,,Sim,1,Eu nao sei
+2018,Feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,F,Feminino,45.0,45.0,45–54,United States,,,Nao,0,Sim
+2018,nenhum,Outro/nao binario,45.0,45.0,45–54,Germany,,,Nao,0,Eu nao sei
+2018,Feminino,Feminino,45.0,45.0,45–54,United States,,,Sim,1,Sim
+2018,Transgênero,Outro/nao binario,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,27.0,27.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,cisgênero masculino,Masculino,36.0,36.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,F,Feminino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,não-binário,Outro/nao binario,42.0,42.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,33.0,33.0,25–34,United States,,,Sim,1,
+2018,queer,Outro/nao binario,25.0,25.0,25–34,United States,,,Sim,1,Sim
+2018,F,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,f,Feminino,29.0,29.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,43.0,43.0,35–44,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,26.0,26.0,25–34,United Kingdom,,,Nao,0,Nao
+2018,Masculino,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,,,Sim,1,
+2018,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,42.0,42.0,35–44,France,,,Sim,1,Nao elegivel - NA
+2018,cisgênero masculino,Masculino,41.0,41.0,35–44,United States,,,Nao,0,
+2018,Feminino,Feminino,33.0,33.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,masculino,Masculino,26.0,26.0,25–34,United States,,,Sim,1,Sim
+2018,m,Masculino,37.0,37.0,35–44,United States,,,Sim,1,Nao
+2018,outros,Outro/nao binario,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,45.0,45.0,45–54,United Kingdom,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,23.0,23.0,18–24,India,,,Nao,0,Nao
+2018,Masculino,Masculino,26.0,26.0,25–34,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,23.0,23.0,18–24,Canada,Sim,1.0,Sim,1,
+2018,Masculino,Masculino,34.0,34.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,Feminino,Feminino,42.0,42.0,35–44,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,42.0,42.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,35.0,35.0,35–44,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Nao
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2018,Feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,27.0,27.0,25–34,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2018,Outro,Outro/nao binario,23.0,23.0,18–24,United States,Sim,1.0,Nao,0,Sim
+2018,Masculino,Masculino,51.0,51.0,45–54,United States,Sim,1.0,Sim,1,Nao
+2018,Feminino,Feminino,19.0,19.0,18–24,United States,,,Nao,0,Nao elegivel - NA
+2018,Masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2018,Masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino ,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,32.0,32.0,25–34,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,feminino,Feminino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,42.0,42.0,35–44,Australia,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,57.0,57.0,55–80,United States,Sim,1.0,Sim,1,
+2018,masculino,Masculino,28.0,28.0,25–34,Germany,,,Sim,1,Nao
+2018,masculino,Masculino,31.0,31.0,25–34,France,Sim,1.0,Sim,1,Nao
+2018,Masculino,Masculino,34.0,34.0,25–34,United States,,,Nao,0,
+2018,Masculino,Masculino,35.0,35.0,35–44,France,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,outros,Outro/nao binario,40.0,40.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,m,Masculino,24.0,24.0,18–24,United States,,,Nao,0,Eu nao sei
+2018,cisgênero masculino,Masculino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,35.0,35.0,35–44,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,cisgênero feminino,Feminino,47.0,47.0,45–54,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,42.0,42.0,35–44,United States,,,Nao,0,Eu nao sei
+2018,outros,Outro/nao binario,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Gênero Fluido,Outro/nao binario,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,
+2018,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,41.0,41.0,35–44,United States,,,Nao,0,Sim
+2018,Feminino,Feminino,48.0,48.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2018,Homem,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,65.0,65.0,55–80,Canada,,,Sim,1,Sim
+2018,não binário,Outro/nao binario,34.0,34.0,25–34,United States,,,Sim,1,Nao elegivel - NA
+2018,Feminino,Feminino,55.0,55.0,55–80,United States,,,Nao,0,Eu nao sei
+2018,Feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,
+2018,F,Feminino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,27.0,27.0,25–34,United States,,,Nao,0,Nao elegivel - NA
+2018,Masculino,Masculino,30.0,30.0,25–34,Canada,,,Nao,0,Sim
+2018,masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,masculino,Masculino,61.0,61.0,55–80,United States,Sim,1.0,Sim,1,Nao
+2018,M,Masculino,45.0,45.0,45–54,Netherlands,,,Nao,0,
+2018,Masculino,Masculino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Masculino,Masculino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,Mulher,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Feminino,Feminino,34.0,34.0,25–34,Australia,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,52.0,52.0,45–54,United States,Sim,1.0,Sim,1,
+2018,masculino,Masculino,36.0,36.0,35–44,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,,,Nao,0,Eu nao sei
+2018,Masculino,Masculino,51.0,51.0,45–54,United States,Sim,1.0,Sim,1,
+2018,Masculino,Masculino,35.0,35.0,35–44,United States,,,Sim,1,Sim
+2018,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2018,feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2018,Feminino ,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Nao
+2018,Masculino,Masculino,46.0,46.0,45–54,United States,,,Sim,1,Nao elegivel - NA
+2018,m,Masculino,31.0,31.0,25–34,United States,,,Sim,1,Eu nao sei
+2018,M,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,
+2018,Masculino ,Masculino,40.0,40.0,35–44,United States,,,Nao,0,Sim
+2018,masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,28.0,28.0,25–34,United States,,,Sim,1,Eu nao sei
+2018,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2018,Masculino,Masculino,27.0,27.0,25–34,United States,,,Nao,0,Sim
+2018,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,25.0,25.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,masculino,Masculino,51.0,51.0,45–54,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,27.0,27.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Eu nao sei
+2019,m,Masculino,46.0,46.0,45–54,United States,,,Nao,0,Eu nao sei
+2019,feminino,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Feminino,Feminino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,35.0,35.0,35–44,United States,,,Sim,1,
+2019,,Nao informado,49.0,49.0,45–54,United Kingdom,,,Nao,0,Sim
+2019,Masculino,Masculino,45.0,45.0,45–54,United Kingdom,,,Sim,1,Eu nao sei
+2019,M,Masculino,40.0,40.0,35–44,United Kingdom,,,Sim,1,Sim
+2019,masculino,Masculino,37.0,37.0,35–44,Netherlands,,,Nao,0,
+2019,Masculino,Masculino,31.0,31.0,25–34,United States,,,Sim,1,Eu nao sei
+2019,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,M,Masculino,43.0,43.0,35–44,Canada,Sim,1.0,Nao,0,Sim
+2019,Masculino,Masculino,35.0,35.0,35–44,United States,,,Sim,1,Sim
+2019,F,Feminino,32.0,32.0,25–34,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,41.0,41.0,35–44,United States,,,Nao,0,Eu nao sei
+2019,f,Feminino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,Vamos manter simples e dizer masculino,Outro/nao binario,53.0,53.0,45–54,United States,,,Sim,1,Sim
+2019,masculino,Masculino,29.0,29.0,25–34,United States,,,Sim,1,Eu nao sei
+2019,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,feminino,Feminino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,Masculino,Masculino,26.0,26.0,25–34,Netherlands,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,27.0,27.0,25–34,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2019,Feminino,Feminino,53.0,53.0,45–54,United States,,,Nao,0,
+2019,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,,,Nao,0,Nao elegivel - NA
+2019,não binário,Outro/nao binario,23.0,23.0,18–24,United Kingdom,Sim,1.0,Sim,1,Sim
+2019,M,Masculino,34.0,34.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,27.0,27.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,31.0,31.0,25–34,United States,,,Sim,1,Sim
+2019,Masculino,Masculino,58.0,58.0,55–80,United States,Sim,1.0,Sim,1,
+2019,Masculino,Masculino,50.0,50.0,45–54,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Me identifico como homem,Outro/nao binario,49.0,49.0,45–54,United Kingdom,,,Nao,0,Sim
+2019,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,m,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,
+2019,Masculino,Masculino,52.0,52.0,45–54,United States,,,Sim,1,Sim
+2019,,Nao informado,33.0,33.0,25–34,Canada,,,Nao,0,Sim
+2019,Feminino,Feminino,54.0,54.0,45–54,Canada,,,Nao,0,
+2019,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,,,Nao,0,
+2019,Masculino,Masculino,64.0,64.0,55–80,United Kingdom,Sim,1.0,Sim,1,
+2019,Masculino,Masculino,40.0,40.0,35–44,United Kingdom,,,Sim,1,
+2019,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2019,Feminino,Feminino,53.0,53.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,masculino,Masculino,55.0,55.0,55–80,United Kingdom,,,Nao,0,Nao
+2019,Masculino,Masculino,30.0,30.0,25–34,United States,,,Sim,1,Eu nao sei
+2019,Masculino,Masculino,35.0,35.0,35–44,United States,,,Sim,1,Sim
+2019,Masculino ,Masculino,60.0,60.0,55–80,Canada,,,Nao,0,Sim
+2019,feminino,Feminino,34.0,34.0,25–34,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,35.0,35.0,35–44,United States,,,Sim,1,Nao
+2019,Masculino,Masculino,34.0,34.0,25–34,United States,,,Sim,1,Sim
+2019,Masculino,Masculino,28.0,28.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,Mulher,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,,Nao informado,36.0,36.0,35–44,United Kingdom,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,50.0,50.0,45–54,United States,,,Nao,0,
+2019,Masculino,Masculino,55.0,55.0,55–80,United States,,,Sim,1,Sim
+2019,Masculino,Masculino,33.0,33.0,25–34,United States,,,Sim,1,Sim
+2019,M,Masculino,47.0,47.0,45–54,United States,,,Nao,0,Sim
+2019,Feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,34.0,34.0,25–34,United Kingdom,,,Nao,0,Sim
+2019,cisgênero masculino,Masculino,32.0,32.0,25–34,United States,,,Sim,1,Sim
+2019,Masculino,Masculino,33.0,33.0,25–34,United Kingdom,Sim,1.0,Sim,1,Nao
+2019,Masculino,Masculino,39.0,39.0,35–44,United States,,,Sim,1,Eu nao sei
+2019,feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Feminino,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,42.0,42.0,35–44,United Kingdom,,,Sim,1,Sim
+2019,M,Masculino,41.0,41.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2019,Masculino,Masculino,32.0,32.0,25–34,Canada,,,Sim,1,Sim
+2019,F,Feminino,32.0,32.0,25–34,United States,,,Sim,1,Nao
+2019,Feminino,Feminino,31.0,31.0,25–34,United States,,,Sim,1,Sim
+2019,Nenhum,Outro/nao binario,36.0,36.0,35–44,United Kingdom,,,Nao,0,Sim
+2019,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,Feminino,Feminino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,Masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,48.0,48.0,45–54,United Kingdom,,,Sim,1,
+2019,Feminino,Feminino,35.0,35.0,35–44,Canada,Sim,1.0,Sim,1,
+2019,Masculino,Masculino,41.0,41.0,35–44,United States,Nao,0.0,Sim,1,Eu nao sei
+2019,F,Feminino,27.0,27.0,25–34,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2019,masculino,Masculino,32.0,32.0,25–34,United States,,,Sim,1,Eu nao sei
+2019,Masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,Mulher,Feminino,20.0,20.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2019,mulher,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,
+2019,masculino,Masculino,0.0,,,United States,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,38.0,38.0,35–44,United States,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,M,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,masculino,Masculino,28.0,28.0,25–34,United States,,,Sim,1,Sim
+2019,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,não binário,Outro/nao binario,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2019,masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,feminino,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Feminino,Feminino,53.0,53.0,45–54,United States,,,Sim,1,Sim
+2019,Masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,40.0,40.0,35–44,United States,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,42.0,42.0,35–44,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,38.0,38.0,35–44,Canada,Sim,1.0,Sim,1,Sim
+2019,sem gênero,Outro/nao binario,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,42.0,42.0,35–44,India,Nao,0.0,Sim,1,Nao
+2019,f,Feminino,35.0,35.0,35–44,Brazil,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,40.0,40.0,35–44,United States,,,Sim,1,Sim
+2019,feminino,Feminino,54.0,54.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2019,masculino,Masculino,37.0,37.0,35–44,United States,,,Sim,1,Sim
+2019,Feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,37.0,37.0,35–44,Brazil,,,Nao,0,Eu nao sei
+2019,Feminino,Feminino,49.0,49.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,23.0,23.0,18–24,United States,,,Nao,0,Eu nao sei
+2019,Feminino,Feminino,42.0,42.0,35–44,United Kingdom,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,49.0,49.0,45–54,Netherlands,,,Nao,0,Sim
+2019,F,Feminino,41.0,41.0,35–44,United Kingdom,,,Nao,0,Eu nao sei
+2019,masculino,Masculino,33.0,33.0,25–34,United Kingdom,,,Sim,1,Sim
+2019,Homem,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,masculino,Masculino,47.0,47.0,45–54,United Kingdom,,,Nao,0,Sim
+2019,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,Feminino,Feminino,49.0,49.0,45–54,Canada,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,23.0,23.0,18–24,United Kingdom,,,Sim,1,Eu nao sei
+2019,Em dúvida,Outro/nao binario,23.0,23.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2019,cisgênero masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,
+2019,Masculino,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Nao
+2019,masculino,Masculino,35.0,35.0,35–44,United States,,,Sim,1,
+2019,feminino,Feminino,34.0,34.0,25–34,United States,,,Nao,0,
+2019,masculino,Masculino,29.0,29.0,25–34,United States,,,Sim,1,Sim
+2019,Masculino,Masculino,40.0,40.0,35–44,United States,,,Nao,0,Eu nao sei
+2019,masculino,Masculino,38.0,38.0,35–44,Germany,,,Nao,0,
+2019,cisgênero masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,feminino,Feminino,22.0,22.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,outros,Outro/nao binario,32.0,32.0,25–34,United States,,,Nao,0,
+2019,feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,Feminino,Feminino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,F,Feminino,51.0,51.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,22.0,22.0,18–24,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,m,Masculino,42.0,42.0,35–44,United States,,,Nao,0,Eu nao sei
+2019,masculino,Masculino,49.0,49.0,45–54,United Kingdom,Sim,1.0,Sim,1,Nao elegivel - NA
+2019,Masculino,Masculino,48.0,48.0,45–54,United Kingdom,,,Nao,0,Sim
+2019,masculino,Masculino,25.0,25.0,25–34,Germany,,,Sim,1,Sim
+2019,Masculino,Masculino,63.0,63.0,55–80,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,41.0,41.0,35–44,Netherlands,,,Sim,1,Nao
+2019,Masculino,Masculino,29.0,29.0,25–34,United States,,,Sim,1,Sim
+2019,outros,Outro/nao binario,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,
+2019,masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Nao,0,Sim
+2019,cisgênero feminino,Feminino,28.0,28.0,25–34,United States,,,Sim,1,Eu nao sei
+2019,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,
+2019,Masculino,Masculino,36.0,36.0,35–44,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,27.0,27.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Feminino,Feminino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,
+2019,Feminino,Feminino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,feminino,Feminino,44.0,44.0,35–44,United States,,,Sim,1,Sim
+2019,feminino,Feminino,31.0,31.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,sem gênero,Outro/nao binario,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,masculino,Masculino,39.0,39.0,35–44,United States,,,Nao,0,Sim
+2019,Feminino,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2019,Masculino,Masculino,38.0,38.0,35–44,United Kingdom,,,Sim,1,Sim
+2019,masculino,Masculino,33.0,33.0,25–34,Canada,,,Nao,0,Eu nao sei
+2019,Feminino ,Feminino,59.0,59.0,55–80,United Kingdom,,,Sim,1,
+2019,Masculino,Masculino,39.0,39.0,35–44,United States,,,Sim,1,Sim
+2019,feminino,Feminino,19.0,19.0,18–24,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2019,Masculino,Masculino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2019,masculino,Masculino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,
+2019,Masculino,Masculino,33.0,33.0,25–34,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2019,feminino,Feminino,39.0,39.0,35–44,United States,,,Nao,0,Eu nao sei
+2019,masculino,Masculino,39.0,39.0,35–44,Germany,,,Nao,0,Nao
+2019,Feminino,Feminino,59.0,59.0,55–80,United States,,,Sim,1,
+2019,masculino,Masculino,53.0,53.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,35.0,35.0,35–44,United States,,,Nao,0,Sim
+2019,Feminino,Feminino,27.0,27.0,25–34,Canada,,,Sim,1,Sim
+2019,feminino,Feminino,24.0,24.0,18–24,Canada,,,Nao,0,Sim
+2019,Transgênero,Outro/nao binario,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,27.0,27.0,25–34,France,,,Nao,0,Nao elegivel - NA
+2019,Masculino,Masculino,46.0,46.0,45–54,Canada,,,Sim,1,
+2019,masculino,Masculino,39.0,39.0,35–44,Canada,Sim,1.0,Nao,0,Nao
+2019,Masculino,Masculino,30.0,30.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,Feminino,Feminino,29.0,29.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,24.0,24.0,18–24,United States,,,Nao,0,Eu nao sei
+2019,Feminino,Feminino,25.0,25.0,25–34,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2019,M,Masculino,45.0,45.0,45–54,United Kingdom,,,Sim,1,Eu nao sei
+2019,Masculino,Masculino,37.0,37.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,22.0,22.0,18–24,United States,,,Nao,0,Eu nao sei
+2019,Feminino,Feminino,35.0,35.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,50.0,50.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,Masculino,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,49.0,49.0,45–54,United Kingdom,Sim,1.0,Sim,1,Nao elegivel - NA
+2019,Masculino,Masculino,40.0,40.0,35–44,United Kingdom,,,Nao,0,Nao
+2019,M,Masculino,37.0,37.0,35–44,United States,,,Nao,0,Sim
+2019,Mulher,Feminino,28.0,28.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,m,Masculino,25.0,25.0,25–34,United States,,,Nao,0,Sim
+2019,Masculino,Masculino,28.0,28.0,25–34,Brazil,,,Nao,0,
+2019,Masculino,Masculino,38.0,38.0,35–44,Brazil,,,Nao,0,Nao elegivel - NA
+2019,masculino,Masculino,25.0,25.0,25–34,India,,,Nao,0,Eu nao sei
+2019,masculino,Masculino,49.0,49.0,45–54,Canada,Nao,0.0,Sim,1,Sim
+2019,masculino,Masculino,19.0,19.0,18–24,Brazil,,,Sim,1,Sim
+2019,masculino,Masculino,43.0,43.0,35–44,Brazil,,,Sim,1,
+2019,Masculino,Masculino,31.0,31.0,25–34,Brazil,,,Sim,1,Sim
+2019,Masculino,Masculino,30.0,30.0,25–34,Brazil,Sim,1.0,Sim,1,Sim
+2019,masculino,Masculino,39.0,39.0,35–44,Brazil,Sim,1.0,Sim,1,Eu nao sei
+2019,masculino,Masculino,22.0,22.0,18–24,Brazil,Sim,1.0,Nao,0,Nao elegivel - NA
+2019,Masculino,Masculino,29.0,29.0,25–34,Brazil,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,30.0,30.0,25–34,Brazil,Sim,1.0,Nao,0,
+2019,masculino,Masculino,32.0,32.0,25–34,Brazil,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,41.0,41.0,35–44,Brazil,Sim,1.0,Sim,1,Nao
+2019,F,Feminino,27.0,27.0,25–34,Brazil,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,31.0,31.0,25–34,Brazil,,,Nao,0,
+2019,masculino,Masculino,36.0,36.0,35–44,India,,,Sim,1,Nao
+2019,F,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2019,f,Feminino,27.0,27.0,25–34,United States,,,Sim,1,Sim
+2019,Nenhum,Outro/nao binario,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,25.0,25.0,25–34,India,Sim,1.0,Sim,1,Eu nao sei
+2019,feminino,Feminino,30.0,30.0,25–34,United States,,,Sim,1,Eu nao sei
+2019,M,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Nao elegivel - NA
+2019,Feminino ,Feminino,26.0,26.0,25–34,United States,,,Nao,0,Eu nao sei
+2019,feminino,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,feminino,Feminino,43.0,43.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,37.0,37.0,35–44,United States,,,Nao,0,
+2019,Maskulino,Outro/nao binario,51.0,51.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,Masculino,Masculino,56.0,56.0,55–80,United States,,,Nao,0,
+2019,Masculino,Masculino,30.0,30.0,25–34,United States,,,Sim,1,Sim
+2019,Transgênero,Outro/nao binario,48.0,48.0,45–54,United States,,,Nao,0,Eu nao sei
+2019,Feminino,Feminino,28.0,28.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Feminino,Feminino,26.0,26.0,25–34,United States,Sim,1.0,Sim,1,Nao
+2019,masculino,Masculino,45.0,45.0,45–54,United States,,,Nao,0,Nao
+2019,Feminino,Feminino,42.0,42.0,35–44,United Kingdom,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,Feminino,Feminino,35.0,35.0,35–44,India,,,Sim,1,Eu nao sei
+2019,Masculino,Masculino,26.0,26.0,25–34,India,,,Sim,1,Eu nao sei
+2019,F,Feminino,34.0,34.0,25–34,India,,,Nao,0,Eu nao sei
+2019,,Nao informado,28.0,28.0,25–34,India,,,Nao,0,Eu nao sei
+2019,Feminino,Feminino,34.0,34.0,25–34,United States,,,Sim,1,Sim
+2019,Feminino,Feminino,59.0,59.0,55–80,United Kingdom,,,Sim,1,
+2019,Masculino,Masculino,41.0,41.0,35–44,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,,Nao informado,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Feminino,Feminino,42.0,42.0,35–44,United States,,,Sim,1,Sim
+2019,Masculino,Masculino,21.0,21.0,18–24,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,feminino,Feminino,30.0,30.0,25–34,United States,,,Nao,0,Sim
+2019,cisgênero masculino,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2019,feminino,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,
+2019,Masculino,Masculino,41.0,41.0,35–44,India,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,25.0,25.0,25–34,United Kingdom,,,Nao,0,Sim
+2019,sem gênero,Outro/nao binario,27.0,27.0,25–34,Germany,Sim,1.0,Sim,1,Nao
+2019,Feminino,Feminino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,Masculino,Masculino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2019,masculino,Masculino,40.0,40.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,M,Masculino,37.0,37.0,35–44,United States,,,Sim,1,Sim
+2019,Masculino,Masculino,38.0,38.0,35–44,United States,,,Nao,0,Eu nao sei
+2019,Masculino,Masculino,47.0,47.0,45–54,United States,,,Sim,1,Eu nao sei
+2019,Feminino,Feminino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2019,Feminino,Feminino,24.0,24.0,18–24,United States,,,Sim,1,Nao elegivel - NA
+2019,Feminino,Feminino,38.0,38.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,42.0,42.0,35–44,Canada,Sim,1.0,Sim,1,Sim
+2019,Masculino,Masculino,42.0,42.0,35–44,United States,,,Sim,1,Eu nao sei
+2019,masculino,Masculino,47.0,47.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2019,M,Masculino,55.0,55.0,55–80,United States,,,Nao,0,Sim
+2019,não binário,Outro/nao binario,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2019,masculino,Masculino,46.0,46.0,45–54,United Kingdom,,,Nao,0,Eu nao sei
+2019,Feminino,Feminino,23.0,23.0,18–24,India,,,Nao,0,Sim
+2019,feminino,Feminino,22.0,22.0,18–24,United States,,,Sim,1,Nao
+2019,Masculino,Masculino,27.0,27.0,25–34,United States,Sim,1.0,Sim,1,
+2019,Feminino,Feminino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2019,Femenino,Outro/nao binario,26.0,26.0,25–34,Brazil,,,Sim,1,Sim
+2019,feminino,Feminino,31.0,31.0,25–34,United States,,,Nao,0,Nao
+2019,masculino,Masculino,27.0,27.0,25–34,India,,,Nao,0,Eu nao sei
+2019,m,Masculino,48.0,48.0,45–54,United States,,,Nao,0,
+2019,M,Masculino,50.0,50.0,45–54,India,,,Nao,0,
+2019,feminino,Feminino,30.0,30.0,25–34,India,,,Nao,0,Nao
+2019,cisgênero feminino,Feminino,24.0,24.0,18–24,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,45.0,45.0,45–54,United States,,,Nao,0,
+2020,Masculino,Masculino,46.0,46.0,45–54,India,Nao,0.0,Nao,0,
+2020,Feminino,Feminino,25.0,25.0,25–34,Canada,Nao,0.0,Nao,0,
+2020,F,Feminino,25.0,25.0,25–34,Canada,,,Nao,0,
+2020,f,Feminino,5.0,,,United States,,,Sim,1,
+2020,Masculino,Masculino,35.0,35.0,35–44,United States,,,Sim,1,
+2020,feminino,Feminino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,
+2020,masculino,Masculino,54.0,54.0,45–54,United States,Sim,1.0,Sim,1,
+2020,Feminino,Feminino,40.0,40.0,35–44,Canada,,,Nao,0,
+2020,Feminino,Feminino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,
+2020,masculino,Masculino,30.0,30.0,25–34,Australia,Sim,1.0,Sim,1,
+2020,Feminino,Feminino,21.0,21.0,18–24,United States,Sim,1.0,Sim,1,
+2020,masculino,Masculino,46.0,46.0,45–54,United States,Sim,1.0,Sim,1,
+2020,Masculino,Masculino,63.0,63.0,55–80,United Kingdom,,,Sim,1,
+2020,Masculino,Masculino,44.0,44.0,35–44,Brazil,,,Nao,0,
+2020,masculino,Masculino,35.0,35.0,35–44,India,,,Sim,1,
+2020,Feminino,Feminino,30.0,30.0,25–34,Australia,,,Nao,0,
+2020,masculino,Masculino,26.0,26.0,25–34,United States,,,Nao,0,Sim
+2020,Masculino,Masculino,32.0,32.0,25–34,India,,,Nao,0,Nao
+2020,Masculino,Masculino,34.0,34.0,25–34,United States,,,Nao,0,Eu nao sei
+2020,feminino,Feminino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2020,M,Masculino,33.0,33.0,25–34,India,,,Sim,1,Nao
+2020,m,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Nao,0,Eu nao sei
+2020,F,Feminino,27.0,27.0,25–34,India,,,Nao,0,Sim
+2020,Feminino,Feminino,30.0,30.0,25–34,United States,,,Nao,0,Eu nao sei
+2020,Masculino,Masculino,44.0,44.0,35–44,India,,,Nao,0,Eu nao sei
+2020,Masculino,Masculino,32.0,32.0,25–34,Brazil,,,Nao,0,Sim
+2020,f,Feminino,39.0,39.0,35–44,India,,,Nao,0,Sim
+2020,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,24.0,24.0,18–24,Australia,,,Sim,1,Nao
+2020,Masculino,Masculino,50.0,50.0,45–54,India,,,Nao,0,Nao elegivel - NA
+2020,Masculino,Masculino,27.0,27.0,25–34,United States,,,Nao,0,Sim
+2020,Masculino,Masculino,28.0,28.0,25–34,United Kingdom,,,Sim,1,Sim
+2020,feminino,Feminino,27.0,27.0,25–34,India,,,Nao,0,Eu nao sei
+2020,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2020,M,Masculino,42.0,42.0,35–44,India,,,Nao,0,Nao
+2020,feminino,Feminino,28.0,28.0,25–34,India,,,Nao,0,Nao
+2020,Masculino,Masculino,36.0,36.0,35–44,United States,,,Nao,0,Sim
+2020,Masculino,Masculino,41.0,41.0,35–44,India,,,Nao,0,Nao
+2020,masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2020,masculino,Masculino,34.0,34.0,25–34,Australia,,,Nao,0,Eu nao sei
+2020,feminino,Feminino,23.0,23.0,18–24,Germany,,,Nao,0,Eu nao sei
+2020,feminino,Feminino,29.0,29.0,25–34,Brazil,,,Nao,0,Nao
+2020,masculino,Masculino,58.0,58.0,55–80,United States,,,Sim,1,Sim
+2020,Masculino,Masculino,40.0,40.0,35–44,Netherlands,,,Nao,0,Eu nao sei
+2020,FEMININO,Feminino,33.0,33.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2020,f,Feminino,22.0,22.0,18–24,Netherlands,,,Sim,1,Eu nao sei
+2020,F,Feminino,30.0,30.0,25–34,United States,,,Sim,1,Sim
+2020,Masculino,Masculino,44.0,44.0,35–44,United States,,,Sim,1,Sim
+2020,Masculino,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2020,M,Masculino,48.0,48.0,45–54,India,,,Nao,0,Sim
+2020,Masculino,Masculino,26.0,26.0,25–34,United States,,,Sim,1,Eu nao sei
+2020,feminino,Feminino,28.0,28.0,25–34,Germany,,,Sim,1,Eu nao sei
+2020,Masculino,Masculino,36.0,36.0,35–44,United States,,,Sim,1,Sim
+2020,Masculino,Masculino,37.0,37.0,35–44,Canada,,,Nao,0,Eu nao sei
+2020,Masculino,Masculino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,31.0,31.0,25–34,Brazil,,,Sim,1,Sim
+2020,M,Masculino,50.0,50.0,45–54,United States,,,Nao,0,Sim
+2020,feminino,Feminino,31.0,31.0,25–34,India,,,Nao,0,Eu nao sei
+2020,"Feminino, Ela/Dela",Outro/nao binario,29.0,29.0,25–34,Canada,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,40.0,40.0,35–44,India,,,Nao,0,Nao
+2020,feminino,Feminino,33.0,33.0,25–34,Canada,,,Nao,0,Nao
+2020,feminino,Feminino,27.0,27.0,25–34,United States,,,Nao,0,Eu nao sei
+2020,Masculino,Masculino,36.0,36.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2020,Feminino,Feminino,33.0,33.0,25–34,United States,,,Nao,0,Sim
+2020,Masculino,Masculino,42.0,42.0,35–44,Canada,,,Nao,0,Sim
+2020,Masculino,Masculino,31.0,31.0,25–34,United Kingdom,,,Sim,1,Eu nao sei
+2020,masculino,Masculino,46.0,46.0,45–54,United States,,,Sim,1,Sim
+2020,feminino,Feminino,54.0,54.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,33.0,33.0,25–34,India,,,Nao,0,Eu nao sei
+2020,Feminino,Feminino,40.0,40.0,35–44,India,,,Nao,0,Nao
+2020,Masculino,Masculino,32.0,32.0,25–34,United States,,,Nao,0,Eu nao sei
+2020,Mulher,Feminino,26.0,26.0,25–34,United States,,,Sim,1,Sim
+2020,Masculino,Masculino,30.0,30.0,25–34,Germany,,,Nao,0,Sim
+2020,Masculino,Masculino,30.0,30.0,25–34,India,,,Nao,0,Nao
+2020,masculino,Masculino,44.0,44.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,37.0,37.0,35–44,United States,,,Sim,1,Nao elegivel - NA
+2020,Masculino,Masculino,37.0,37.0,35–44,India,,,Nao,0,Eu nao sei
+2020,Feminino,Feminino,29.0,29.0,25–34,Brazil,,,Nao,0,Sim
+2020,masculino,Masculino,39.0,39.0,35–44,United States,,,Sim,1,Sim
+2020,Masculino,Masculino,44.0,44.0,35–44,United States,,,Nao,0,Eu nao sei
+2020,Feminino,Feminino,22.0,22.0,18–24,United States,,,Nao,0,Sim
+2020,feminino,Feminino,31.0,31.0,25–34,United States,,,Nao,0,Eu nao sei
+2020,masculino,Masculino,59.0,59.0,55–80,United States,Sim,1.0,Sim,1,Sim
+2020,Feminino,Feminino,30.0,30.0,25–34,India,,,Nao,0,Nao
+2020,F,Feminino,48.0,48.0,45–54,United States,Sim,1.0,Sim,1,Sim
+2020,feminino,Feminino,30.0,30.0,25–34,India,,,Sim,1,Eu nao sei
+2020,masculino,Masculino,23.0,23.0,18–24,Germany,,,Nao,0,Sim
+2020,Masculino,Masculino,27.0,27.0,25–34,United States,,,Nao,0,Sim
+2020,feminino,Feminino,53.0,53.0,45–54,United States,,,Sim,1,Eu nao sei
+2020,Masculino,Masculino,62.0,62.0,55–80,United States,,,Nao,0,Eu nao sei
+2020,majoritariamente masculino,Outro/nao binario,32.0,32.0,25–34,United States,,,Sim,1,Sim
+2020,Masculino,Masculino,34.0,34.0,25–34,India,,,Sim,1,Nao
+2020,masculino,Masculino,29.0,29.0,25–34,India,,,Nao,0,Eu nao sei
+2020,Feminino,Feminino,32.0,32.0,25–34,India,,,Nao,0,Eu nao sei
+2020,Masculino,Masculino,46.0,46.0,45–54,Brazil,,,Nao,0,Nao
+2020,masculino,Masculino,42.0,42.0,35–44,Netherlands,Sim,1.0,Sim,1,Nao
+2020,Masculino,Masculino,45.0,45.0,45–54,United States,Sim,1.0,Sim,1,Nao
+2020,masculino,Masculino,47.0,47.0,45–54,Netherlands,,,Sim,1,Nao
+2020,feminino,Feminino,32.0,32.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,26.0,26.0,25–34,United States,,,Nao,0,Sim
+2020,masculino,Masculino,34.0,34.0,25–34,Germany,Sim,1.0,Sim,1,Nao
+2020,cisgênero masculino,Masculino,45.0,45.0,45–54,United States,,,Nao,0,Sim
+2020,Feminino,Feminino,21.0,21.0,18–24,United States,,,Nao,0,Sim
+2020,Feminino,Feminino,44.0,44.0,35–44,India,,,Nao,0,Nao
+2020,masculino,Masculino,47.0,47.0,45–54,India,,,Nao,0,Eu nao sei
+2020,Masculino,Masculino,40.0,40.0,35–44,Brazil,,,Nao,0,Nao elegivel - NA
+2020,Feminino,Feminino,24.0,24.0,18–24,United States,,,Sim,1,Sim
+2020,Masculino,Masculino,32.0,32.0,25–34,India,,,Nao,0,Eu nao sei
+2020,Feminino,Feminino,33.0,33.0,25–34,India,Sim,1.0,Nao,0,Eu nao sei
+2020,F,Feminino,42.0,42.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,46.0,46.0,45–54,United Kingdom,Sim,1.0,Sim,1,Sim
+2020,m,Masculino,30.0,30.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,24.0,24.0,18–24,India,,,Sim,1,Nao
+2020,m,Masculino,42.0,42.0,35–44,India,,,Nao,0,Eu nao sei
+2020,masculino,Masculino,28.0,28.0,25–34,India,,,Nao,0,Eu nao sei
+2020,Feminino,Feminino,27.0,27.0,25–34,United States,,,Nao,0,Sim
+2020,Masculino,Masculino,62.0,62.0,55–80,United States,,,Nao,0,Sim
+2020,masculino,Masculino,35.0,35.0,35–44,United States,,,Nao,0,Eu nao sei
+2020,Masculino,Masculino,32.0,32.0,25–34,United Kingdom,,,Sim,1,Sim
+2020,Feminino,Feminino,32.0,32.0,25–34,United States,,,Nao,0,Nao
+2020,Masculino,Masculino,52.0,52.0,45–54,Australia,,,Nao,0,Nao
+2020,F,Feminino,24.0,24.0,18–24,France,Nao,0.0,Nao,0,Nao
+2020,F,Feminino,48.0,48.0,45–54,United States,,,Sim,1,Sim
+2020,Masculino,Masculino,24.0,24.0,18–24,Canada,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,32.0,32.0,25–34,Canada,,,Sim,1,Eu nao sei
+2020,masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,25.0,25.0,25–34,Canada,,,Nao,0,Sim
+2020,Masculino,Masculino,39.0,39.0,35–44,United States,Sim,1.0,Sim,1,Sim
+2020,Masculino,Masculino,25.0,25.0,25–34,India,,,Nao,0,Nao
+2020,F,Feminino,28.0,28.0,25–34,France,,,Nao,0,Eu nao sei
+2020,Masculino,Masculino,39.0,39.0,35–44,United States,,,Sim,1,Sim
+2020,m,Masculino,20.0,20.0,18–24,United Kingdom,,,Nao,0,Eu nao sei
+2020,Feminino,Feminino,40.0,40.0,35–44,United Kingdom,Sim,1.0,Sim,1,Sim
+2020,masculino,Masculino,31.0,31.0,25–34,India,,,Nao,0,Eu nao sei
+2020,Masculino,Masculino,53.0,53.0,45–54,United States,,,Nao,0,Nao
+2020,Masculino,Masculino,34.0,34.0,25–34,United States,Sim,1.0,Sim,1,Eu nao sei
+2020,Masculino,Masculino,43.0,43.0,35–44,Canada,,,Sim,1,Sim
+2020,masculino,Masculino,37.0,37.0,35–44,Netherlands,,,Nao,0,Nao elegivel - NA
